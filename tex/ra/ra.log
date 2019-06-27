@@ -1,0 +1,1759 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.4.29)  27 JUN 2019 19:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ra.tex
+(./ra.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2019/02/01 v3.26b KOMA-Script document class (book)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+)))
+(/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 136.
+Class scrbook Info: You've used standard option `openany'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `open=any'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `open=any' there
+(scrbook)           instead of `openany', too.
+
+
+Package scrbook Warning: You've used obsolete option `14pt'.
+(scrbook)                Usage of this option indicates an old document
+(scrbook)                and changes compatibility level using
+(scrbook)                `fontsize=14pt,version=first,
+(scrbook)                enabledeprecatedfontcommands' that may result
+(scrbook)                in further warnings.
+(scrbook)                If you don't want this, you should simply
+(scrbook)                replace option `14pt' by `fontsize=14pt'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+Class scrbook Info: File `size14.clo' used to setup font sizes on input line 23
+76.
+(/usr/share/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+
+
+Package typearea Warning: DIV for 14.0pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=calc.
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 17
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 492.06537pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -1.97495pt
+(typearea)              \oddsidemargin  = -37.12247pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 711.0pt
+(typearea)              \topmargin      = -69.31136pt
+(typearea)              \headheight     = 21.25pt
+(typearea)              \headsep        = 25.5pt
+(typearea)              \topskip        = 14.0pt
+(typearea)              \footskip       = 59.5pt
+(typearea)              \baselineskip   = 17.0pt
+(typearea)              on input line 1715.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@chapter@maxnumwidth=\skip47
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5303.
+\scr@dte@section@maxnumwidth=\skip48
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5313.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5313.
+\scr@dte@part@maxnumwidth=\skip49
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5322.
+\scr@dte@subsection@maxnumwidth=\skip50
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5332.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5332.
+\scr@dte@subsubsection@maxnumwidth=\skip51
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5342.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5342.
+\scr@dte@paragraph@maxnumwidth=\skip52
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5352.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5352.
+\scr@dte@subparagraph@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5362.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5362.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6617.
+\scr@dte@figure@maxnumwidth=\skip56
+\c@figure=\count88
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6638.
+\scr@dte@table@maxnumwidth=\skip57
+\c@table=\count89
+Class scrbook Info: Using old \@makefntext due to compatibility level
+(scrbook)           less than 3.22 on input line 6798.
+Class scrbook Info: Redefining `\numberline' on input line 6811.
+\bibindent=\dimen102
+)
+
+Package typearea Warning: DIV for 14.0pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=calc.
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 17
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 492.06537pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -19.5487pt
+(typearea)              \oddsidemargin  = -19.5487pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 711.0pt
+(typearea)              \topmargin      = -69.31136pt
+(typearea)              \headheight     = 21.25pt
+(typearea)              \headsep        = 25.5pt
+(typearea)              \topskip        = 14.0pt
+(typearea)              \footskip       = 59.5pt
+(typearea)              \baselineskip   = 17.0pt
+(typearea)              on input line 2.
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen103
+\ar@mcellbox=\box29
+\extrarowheight=\dimen104
+\NC@list=\toks15
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box30
+)
+\TX@col@width=\dimen105
+\TX@old@table=\dimen106
+\TX@old@col=\dimen107
+\TX@target=\dimen108
+\TX@delta=\dimen109
+\TX@cols=\count90
+\TX@ftn=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks17
+\float@box=\box31
+\@float@everytoks=\toks18
+\@floatcapt=\box32
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+
+Class scrbook Warning: Usage of package `emptypage' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use option
+(scrbook)              `cleardoublepage' with one of it's
+(scrbook)              several values.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `emptypage' on input line 7.
+
+(/usr/share/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen110
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count94
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count95
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen111
+\Fld@menulength=\count96
+\Field@Width=\dimen112
+\Fld@charsize=\dimen113
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box33
+\c@Hy@AnnotLevel=\count100
+\HyField@AnnotCount=\count101
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip60
+)
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-02-15 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-02-15 L3 programming layer (code)
+\c_max_int=\count104
+\l_tmpa_int=\count105
+\l_tmpb_int=\count106
+\g_tmpa_int=\count107
+\g_tmpb_int=\count108
+\g__kernel_prg_map_int=\count109
+\c_log_iow=\count110
+\l_iow_line_count_int=\count111
+\l__iow_line_target_int=\count112
+\l__iow_one_indent_int=\count113
+\l__iow_indent_int=\count114
+\c_zero_dim=\dimen114
+\c_max_dim=\dimen115
+\l_tmpa_dim=\dimen116
+\l_tmpb_dim=\dimen117
+\g_tmpa_dim=\dimen118
+\g_tmpb_dim=\dimen119
+\c_zero_skip=\skip61
+\c_max_skip=\skip62
+\l_tmpa_skip=\skip63
+\l_tmpb_skip=\skip64
+\g_tmpa_skip=\skip65
+\g_tmpb_skip=\skip66
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count115
+\l__intarray_loop_int=\count116
+\c__intarray_sp_dim=\dimen120
+\g__intarray_font_int=\count117
+\c__fp_leading_shift_int=\count118
+\c__fp_middle_shift_int=\count119
+\c__fp_trailing_shift_int=\count120
+\c__fp_big_leading_shift_int=\count121
+\c__fp_big_middle_shift_int=\count122
+\c__fp_big_trailing_shift_int=\count123
+\c__fp_Bigg_leading_shift_int=\count124
+\c__fp_Bigg_middle_shift_int=\count125
+\c__fp_Bigg_trailing_shift_int=\count126
+\g__fp_array_int=\count127
+\l__fp_array_loop_int=\count128
+\l__sort_length_int=\count129
+\l__sort_min_int=\count130
+\l__sort_top_int=\count131
+\l__sort_max_int=\count132
+\l__sort_true_max_int=\count133
+\l__sort_block_int=\count134
+\l__sort_begin_int=\count135
+\l__sort_end_int=\count136
+\l__sort_A_int=\count137
+\l__sort_B_int=\count138
+\l__sort_C_int=\count139
+\l__tl_analysis_normal_int=\count140
+\l__tl_analysis_index_int=\count141
+\l__tl_analysis_nesting_int=\count142
+\l__tl_analysis_type_int=\count143
+\l__regex_internal_a_int=\count144
+\l__regex_internal_b_int=\count145
+\l__regex_internal_c_int=\count146
+\l__regex_balance_int=\count147
+\l__regex_group_level_int=\count148
+\l__regex_mode_int=\count149
+\c__regex_cs_in_class_mode_int=\count150
+\c__regex_cs_mode_int=\count151
+\l__regex_catcodes_int=\count152
+\l__regex_default_catcodes_int=\count153
+\c__regex_catcode_L_int=\count154
+\c__regex_catcode_O_int=\count155
+\c__regex_catcode_A_int=\count156
+\c__regex_all_catcodes_int=\count157
+\l__regex_show_lines_int=\count158
+\l__regex_min_state_int=\count159
+\l__regex_max_state_int=\count160
+\l__regex_left_state_int=\count161
+\l__regex_right_state_int=\count162
+\l__regex_capturing_group_int=\count163
+\l__regex_min_pos_int=\count164
+\l__regex_max_pos_int=\count165
+\l__regex_curr_pos_int=\count166
+\l__regex_start_pos_int=\count167
+\l__regex_success_pos_int=\count168
+\l__regex_curr_char_int=\count169
+\l__regex_curr_catcode_int=\count170
+\l__regex_last_char_int=\count171
+\l__regex_case_changed_char_int=\count172
+\l__regex_curr_state_int=\count173
+\l__regex_step_int=\count174
+\l__regex_min_active_int=\count175
+\l__regex_max_active_int=\count176
+\l__regex_replacement_csnames_int=\count177
+\l__regex_match_count_int=\count178
+\l__regex_min_submatch_int=\count179
+\l__regex_submatch_int=\count180
+\l__regex_zeroth_submatch_int=\count181
+\g__regex_trace_regex_int=\count182
+\c_empty_box=\box34
+\l_tmpa_box=\box35
+\l_tmpb_box=\box36
+\g_tmpa_box=\box37
+\g_tmpb_box=\box38
+\l__box_top_dim=\dimen121
+\l__box_bottom_dim=\dimen122
+\l__box_left_dim=\dimen123
+\l__box_right_dim=\dimen124
+\l__box_top_new_dim=\dimen125
+\l__box_bottom_new_dim=\dimen126
+\l__box_left_new_dim=\dimen127
+\l__box_right_new_dim=\dimen128
+\l__box_internal_box=\box39
+\l__coffin_internal_box=\box40
+\l__coffin_internal_dim=\dimen129
+\l__coffin_offset_x_dim=\dimen130
+\l__coffin_offset_y_dim=\dimen131
+\l__coffin_x_dim=\dimen132
+\l__coffin_y_dim=\dimen133
+\l__coffin_x_prime_dim=\dimen134
+\l__coffin_y_prime_dim=\dimen135
+\c_empty_coffin=\box41
+\l__coffin_aligned_coffin=\box42
+\l__coffin_aligned_internal_coffin=\box43
+\l_tmpa_coffin=\box44
+\l_tmpb_coffin=\box45
+\g_tmpa_coffin=\box46
+\g_tmpb_coffin=\box47
+\c__coffin_empty_coffin=\box48
+\l__coffin_display_coffin=\box49
+\l__coffin_display_coord_coffin=\box50
+\l__coffin_display_pole_coffin=\box51
+\l__coffin_display_offset_dim=\dimen136
+\l__coffin_display_x_dim=\dimen137
+\l__coffin_display_y_dim=\dimen138
+\g__file_internal_ior=\read1
+\l__coffin_bounding_shift_dim=\dimen139
+\l__coffin_left_corner_dim=\dimen140
+\l__coffin_right_corner_dim=\dimen141
+\l__coffin_bottom_corner_dim=\dimen142
+\l__coffin_top_corner_dim=\dimen143
+\l__coffin_scaled_total_height_dim=\dimen144
+\l__coffin_scaled_width_dim=\dimen145
+)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-02-15 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count183
+\g__driver_pdf_object_int=\count184
+))
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count185
+\g__xparse_grabber_int=\count186
+\l__xparse_m_args_int=\count187
+\l__xparse_mandatory_args_int=\count188
+\l__xparse_v_nesting_int=\count189
+)
+Package: fontspec 2019/02/12 v2.7b Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/02/12 v2.7b Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count190
+\l__fontspec_language_int=\count191
+\l__fontspec_strnum_int=\count192
+\l__fontspec_tmp_int=\count193
+\l__fontspec_tmpa_int=\count194
+\l__fontspec_tmpb_int=\count195
+\l__fontspec_tmpc_int=\count196
+\l__fontspec_em_int=\count197
+\l__fontspec_emdef_int=\count198
+\l__fontspec_strong_int=\count199
+\l__fontspec_strongdef_int=\count266
+\l__fontspec_tmpa_dim=\dimen146
+\l__fontspec_tmpb_dim=\dimen147
+\l__fontspec_tmpc_dim=\dimen148
+
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4044.
+LaTeX Info: Redefining \slshape on input line 4049.
+LaTeX Info: Redefining \scshape on input line 4054.
+LaTeX Info: Redefining \upshape on input line 4059.
+LaTeX Info: Redefining \em on input line 4089.
+LaTeX Info: Redefining \emph on input line 4114.
+))
+(/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+
+Package fontspec Info: Font family 'CochinLTStd(0)' created for font 'Cochin
+(fontspec)             LT Std' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Cochin LT
+(fontspec)             Std/OT:script=latn;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Cochin LT
+(fontspec)             Std/B/OT:script=latn;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Cochin LT
+(fontspec)             Std/I/OT:script=latn;language=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Cochin LT
+(fontspec)             Std/BI/OT:script=latn;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'OpenBaybayin(0)' created for font
+(fontspec)             'OpenBaybayin' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"OpenBaybayin/OT:script=latn;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'OpenBaybayin(1)' created for font
+(fontspec)             'OpenBaybayin' with options [Style=Historic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"OpenBaybayin/OT:script=latn;language=DFLT;+hist;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "OpenBaybayin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'OpenBaybayin(2)' created for font
+(fontspec)             'OpenBaybayin' with options [RawFeature={+ss02}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"OpenBaybayin/OT:script=latn;language=DFLT;+ss02;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "UnifrakturMaguntia/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "UnifrakturMaguntia/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "UnifrakturMaguntia/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'UnifrakturMaguntia(0)' created for font
+(fontspec)             'UnifrakturMaguntia' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"UnifrakturMaguntia/OT:script=latn;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'TeXGyrePagella(0)' created for font 'TeX
+(fontspec)             Gyre Pagella' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Pagella/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Pagella/OT:script=latn;language=DFLT;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Pagella/B/OT:script=latn;language=DFLT;mapping=tex-text;
+"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: <->"TeX
+(fontspec)             Gyre
+(fontspec)             Pagella/B/OT:script=latn;language=DFLT;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Pagella/I/OT:script=latn;language=DFLT;mapping=tex-text;
+"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Pagella/I/OT:script=latn;language=DFLT;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Pagella/BI/OT:script=latn;language=DFLT;mapping=tex-text
+;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Pagella/BI/OT:script=latn;language=DFLT;+smcp;mapping=te
+x-text;"
+
+LaTeX Info: Redefining \rmfamily on input line 16.
+
+Package fontspec Info: Font family 'TeXGyreHeros(0)' created for font 'TeX
+(fontspec)             Gyre Heros' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Heros/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Heros/OT:script=latn;language=DFLT;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Heros/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: <->"TeX
+(fontspec)             Gyre
+(fontspec)             Heros/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Heros/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Heros/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Heros/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Heros/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-
+text;"
+
+LaTeX Info: Redefining \sffamily on input line 17.
+
+(/usr/share/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2018/11/12 v2.02b (include SVG pictures)
+
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+\svg@box=\box52
+\c@svg@param@lastpage=\count267
+\c@svg@param@currpage=\count268
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
+
+
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/share/texmf-dist/tex/xelatex/bidicontour/bidicontour.sty
+Package: bidicontour 2014/07/14 v0.1 Bidi-aware contoured text
+\bidicon@length=\skip67
+
+No configuration file `bidicontour.cfg' found.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
+ (/usr/share/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2019/01/19 v35.5 Bidirectional typesetting in plain TeX and LaTeX
+
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2009--2018 Vafa Khalighi
+* 
+* v35.5, 2019/01/19
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/bidi-tex/bidi/issues
+* 
+****************************************************
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2018/12/11 v1.9 Programming tools for bidi package
+\@bidi@envbody=\toks20
+\@bidi@emptytoks=\toks21
+\bidi@tempcountb=\count269
+\bidi@temptoksa=\toks22
+\bidi@temptoksb=\toks23
+\bidi@dummies=\count270
+\bidi@are@these@correct=\toks24
+\bidi@toks@lista=\toks25
+\bidi@toks@listb=\toks26
+\bidi@stack@length=\count271
+\bidi@empty@stack=\toks27
+\bidi@looprepeat@depth=\count272
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count273
+Package zref Info: New property: abspage on input line 62.
+)
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count274
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(/usr/share/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2018/10/11 v1.3.6 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks30
+\bidi@column@check@number=\count275
+
+(/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count276
+\footdir@toks=\toks31
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/tocbasic-xetex-bidi.def
+File: tocbasic-xetex-bidi.def 2016/09/14 v0.2 bidi adaptations for tocbasic pac
+kage for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/scrbook-xetex-bidi.def
+File: scrbook-xetex-bidi.def 2017/06/09 v1.1 bidi adaptations for scrbook class
+ for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 46.
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 45.
+LaTeX Info: Redefining \bidicolor on input line 88.
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/tabularx-xetex-bidi.def
+File: tabularx-xetex-bidi.def 2014/11/08 v0.1 bidi adaptations for tabularx pac
+kage for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref pac
+kage for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def
+File: array-xetex-bidi.def 2015/11/07 v0.3 bidi adaptations for array package f
+or XeTeX engine
+))
+(/usr/share/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count277
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+(/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip68
+\enit@outerparindent=\dimen151
+\enit@toks=\toks32
+\enit@inbox=\box53
+\enit@count@id=\count278
+\enitdp@description=\count279
+)
+(/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count280
+\c@Blindtext=\count281
+\c@blind@countparstart=\count282
+\blind@countxx=\count283
+\blindtext@numBlindtext=\count284
+\blind@countyy=\count285
+\c@blindlist=\count286
+\c@blindlistlevel=\count287
+\c@blindlist@level=\count288
+\blind@listitem=\count289
+\c@blind@listcount=\count290
+\c@blind@levelcount=\count291
+\blind@mathformula=\count292
+\blind@Mathformula=\count293
+\c@blind@randomcount=\count294
+\c@blind@randommax=\count295
+\c@blind@pangramcount=\count296
+\c@blind@pangrammax=\count297
+) (./ra.aux)
+\openout1 = `ra.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring ON on input line 59.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count298
+)
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
+ (./ra.out)
+(./ra.out)
+\@outlinefile=\write3
+\openout3 = `ra.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message with `\usepackage{bookmark}'
+(scrbook)           before \begin{document} on input line 59.
+ (/usr/share/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2016/05/17 v1.26 bookmark driver for dvipdfm (HO)
+\BKM@id=\count299
+))
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 59.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 59.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 59.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 59.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 59.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 59.
+LaTeX Font Info:    Redeclaring math accent \check on input line 59.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 59.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TeXGyrePagella(0)/m/n on input line 
+59.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/m/n on input line
+ 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/m/n o
+n input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TeXGyrePagella(0)/m/it on input lin
+e 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/bx/n on input lin
+e 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 5
+9.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TeXGyrePagella(0)/m/n --> TU/TeXGyrePagella(0)/bx/n 
+on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TeXGyrePagella(0)/bx/it on input l
+ine 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/bx/n on input line
+ 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 59.
+
+
+LaTeX Font Warning: Font shape `TU/OpenBaybayin(0)/bx/n' undefined
+(Font)              using `TU/OpenBaybayin(0)/m/n' instead on input line 61.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 61.
+
+(/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+) [1
+
+
+] [2
+
+]
+(./ra.toc
+Overfull \hbox (5.96216pt too wide) in paragraph at lines 20--20
+ [][][] [][][][]\TU/TeXGyrePagella(0)/m/it/14.4 Kalem (Anak Bathala)\TU/TeXGyre
+Pagella(0)/m/n/14.4 , №1, 2013, BHM Publishing, graphic[][] 
+ []
+
+
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [3
+
+])
+\tf@toc=\write4
+\openout4 = `ra.toc'.
+
+LaTeX Font Info:    Font shape `TU/TeXGyrePagella(0)/m/sl' in size <14.4> not a
+vailable
+(Font)              Font shape `TU/TeXGyrePagella(0)/m/it' tried instead on inp
+ut line 62.
+
+[4]
+chapter without number
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
+
+[5
+
+] [6]
+chapter without number
+[7
+
+]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 108.
+ [8]
+chapter without number
+
+LaTeX Font Warning: Font shape `TU/OpenBaybayin(1)/bx/n' undefined
+(Font)              using `TU/OpenBaybayin(1)/m/n' instead on input line 136.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayinh' on input line 136.
+
+File: ZambalesAlphabet.png Graphic file (type bmp)
+<ZambalesAlphabet.png>
+[9
+
+]
+File: ZambalesRa1.png Graphic file (type bmp)
+<ZambalesRa1.png>
+ [10]
+File: PK.png Graphic file (type bmp)
+<PK.png>
+ [11]
+File: Dict.png Graphic file (type bmp)
+<Dict.png>
+File: HandwritingZ.png Graphic file (type bmp)
+<HandwritingZ.png>
+File: PS.jpg Graphic file (type bmp)
+<PS.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayin' on input line 194.
+
+
+LaTeX Font Warning: Font shape `TU/OpenBaybayin(2)/bx/n' undefined
+(Font)              using `TU/OpenBaybayin(2)/m/n' instead on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayinb' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 195.
+
+File: oldbikol3.png Graphic file (type bmp)
+<oldbikol3.png>
+[14]
+File: DCover.png Graphic file (type bmp)
+<DCover.png>
+ [15]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayinb' on input line 228.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 228.
+
+File: AR_PRS.png Graphic file (type bmp)
+<AR_PRS.png>
+[16]
+File: Rizal-fontsF.png Graphic file (type bmp)
+<Rizal-fontsF.png>
+ [17]
+File: ARCalligraphy.png Graphic file (type bmp)
+<ARCalligraphy.png>
+ [18]
+chapter without number
+File: Potet2.jpg Graphic file (type bmp)
+<Potet2.jpg>
+[19
+
+]
+File: MorilloAfrica.png Graphic file (type bmp)
+<MorilloAfrica.png>
+File: KalemSpeechBubble.jpg Graphic file (type bmp)
+<KalemSpeechBubble.jpg>
+ [20]
+Overfull \hbox (31.18463pt too wide) in paragraph at lines 302--302
+[][][][][][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [
+] [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []$[][]
+ []
+
+File: SURAT_Ef.png Graphic file (type bmp)
+<SURAT_Ef.png>
+
+Overfull \hbox (1.20094pt too wide) in paragraph at lines 318--319
+[]\TU/TeXGyrePagella(0)/m/n/14.4 While perhaps not couted as printed material (
+despite routinely being printed,[][][][][][][][][]
+ []
+
+
+Overfull \hbox (14.17137pt too wide) in paragraph at lines 321--322
+[][]\TU/TeXGyrePagella(0)/m/n/14.4 It is also used in Philippine passports, spe
+cifically the latest e-passport[]
+ []
+
+[21]
+Overfull \hbox (1.51854pt too wide) in paragraph at lines 334--335
+[]\TU/TeXGyrePagella(0)/m/n/14.4 Several large news publications in the Philipp
+ines have produced articles which[]
+ []
+
+File: RapplerRA.jpg Graphic file (type bmp)
+<RapplerRA.jpg>
+File: MB.jpg Graphic file (type bmp)
+<MB.jpg>
+[22] [23]
+Overfull \hbox (6.63065pt too wide) in paragraph at lines 362--363
+[]\TU/TeXGyrePagella(0)/m/n/14.4 pines’ \TU/TeXGyrePagella(0)/m/it/14.4 baybayi
+n \TU/TeXGyrePagella(0)/m/n/14.4 script) at <[][][]$[][][][][] [] [] [] [][][][
+][][][][][][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][] []$[][]
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayin' on input line 364.
+
+File: Maharlika.jpg Graphic file (type bmp)
+<Maharlika.jpg>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayin' on input line 369.
+
+File: RANDY.jpg Graphic file (type bmp)
+<RANDY.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayin' on input line 374.
+
+File: DelaTorre.jpg Graphic file (type bmp)
+<DelaTorre.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+File: Protest3.jpg Graphic file (type bmp)
+<Protest3.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+File: logos.png Graphic file (type bmp)
+<logos.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+File: Kalinga.jpg Graphic file (type bmp)
+<Kalinga.jpg>
+
+Underfull \vbox (badness 2790) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (54.20024pt too wide) in paragraph at lines 416--417
+[][]\TU/TeXGyrePagella(0)/m/n/14.4 Per <[][][]$[][][][][] [] [] [] [][][][][][]
+[][][][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][] [] [][] [] [
+][][][][][][][][][][][][][][][][][][][] []$[][]
+ []
+
+[29]
+File: BikolMintz.png Graphic file (type bmp)
+<BikolMintz.png>
+ (./ratable.tex
+
+Package fontspec Info: Font family 'Baybayin_Ale.ttf(0)' created for font
+(fontspec)             'Baybayin_Ale.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Ale.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Alp.ttf(0)' created for font
+(fontspec)             'Baybayin_Alp.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Alp.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Ber.ttf(0)' created for font
+(fontspec)             'Baybayin_Ber.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Ber.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Bloc.ttf(0)' created for font
+(fontspec)             'Baybayin_Bloc.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Bloc.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Br1.ttf(0)' created for font
+(fontspec)             'Baybayin_Br1.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Br1.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Clu.ttf(0)' created for font
+(fontspec)             'Baybayin_Clu.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Clu.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Div.ttf(0)' created for font
+(fontspec)             'Baybayin_Div.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Div.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Dmo.ttf(0)' created for font
+(fontspec)             'Baybayin_Dmo.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Dmo.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Doc.ttf(0)' created for font
+(fontspec)             'Baybayin_Doc.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Doc.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Gan.ttf(0)' created for font
+(fontspec)             'Baybayin_Gan.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Gan.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Jep.ttf(0)' created for font
+(fontspec)             'Baybayin_Jep.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Jep.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Kan.ttf(0)' created for font
+(fontspec)             'Baybayin_Kan.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Kan.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Ku1.ttf(0)' created for font
+(fontspec)             'Baybayin_Ku1.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Ku1.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Loc.otf(0)' created for font
+(fontspec)             'Baybayin_Loc.otf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Loc.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Mdo.ttf(0)' created for font
+(fontspec)             'Baybayin_Mdo.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Mdo.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Mod.ttf(0)' created for font
+(fontspec)             'Baybayin_Mod.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Mod.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Mon.ttf(0)' created for font
+(fontspec)             'Baybayin_Mon.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Mon.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Pnt.ttf(0)' created for font
+(fontspec)             'Baybayin_Pnt.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Pnt.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Rnd.ttf(0)' created for font
+(fontspec)             'Baybayin_Rnd.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Rnd.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Rng.ttf(0)' created for font
+(fontspec)             'Baybayin_Rng.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Rng.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Sin.ttf(0)' created for font
+(fontspec)             'Baybayin_Sin.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Sin.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Sul.ttf(0)' created for font
+(fontspec)             'Baybayin_Sul.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Sul.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Baybayin_Tso.ttf(0)' created for font
+(fontspec)             'Baybayin_Tso.ttf' with options [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/Baybayin_Tso.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_bolats.ttf(0)' created for
+(fontspec)             font 'baybayin_modern_bolats.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_bolats.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_impen.ttf(0)' created for
+(fontspec)             font 'baybayin_modern_impen.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_impen.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_laso.ttf(0)' created for
+(fontspec)             font 'baybayin_modern_laso.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_laso.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_leets.ttf(0)' created for
+(fontspec)             font 'baybayin_modern_leets.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_leets.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_mckudlit.ttf(0)' created
+(fontspec)             for font 'baybayin_modern_mckudlit.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_mckudlit.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_tulsok.ttf(0)' created for
+(fontspec)             font 'baybayin_modern_tulsok.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_tulsok.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_varsitita.ttf(0)' created
+(fontspec)             for font 'baybayin_modern_varsitita.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_varsitita.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'baybayin_modern_varsitito.ttf(0)' created
+(fontspec)             for font 'baybayin_modern_varsitito.ttf' with options
+(fontspec)             [Path=fonts/].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[fonts/baybayin_modern_varsitito.ttf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30])
+File: ZapantasFonts.png Graphic file (type bmp)
+<ZapantasFonts.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32]
+Missing character: There is no ◌ in font [lmmono12-regular]:!
+Missing character: There is no ᜒ in font [lmmono12-regular]:!
+File: Paninap.png Graphic file (type bmp)
+<Paninap.png>
+ [33]
+File: Lexilogos.png Graphic file (type bmp)
+<Lexilogos.png>
+ [34]
+File: LearnBaybayin.png Graphic file (type bmp)
+<LearnBaybayin.png>
+File: Alamin.png Graphic file (type bmp)
+<Alamin.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 530.
+
+[36]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 530.
+ (./ra.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 530.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 530.
+Package rerunfilecheck Info: File `ra.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 530.
+ ) 
+Here is how much of TeX's memory you used:
+ 27581 strings out of 492933
+ 538257 string characters out of 6138667
+ 815024 words of memory out of 5000000
+ 31134 multiletter control sequences out of 15000+600000
+ 541095 words of font info for 191 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 50i,9n,80p,9108b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ra.pdf (36 pages).
