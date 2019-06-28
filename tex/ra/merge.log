@@ -1,0 +1,147 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=cont-en 2019.6.28)  28 JUN 2019 20:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**texexec.tex
+(./texexec.tex
+
+ConTeXt  ver: 2019.03.21 21:39 MKII  fmt: 2019.6.28  int: english/english
+
+system          : cont-new.mkii loaded
+(/usr/share/texmf-dist/tex/context/base/mkii/cont-new.mkii
+systems         : beware: some patches loaded from cont-new.mkii
+)
+system          : cont-sys.rme loaded
+(/usr/share/texmf-dist/tex/context/user/mkii/cont-sys.rme
+(/usr/share/texmf-dist/tex/context/base/mkii/type-siz.mkii)
+(/usr/share/texmf-dist/tex/context/base/mkii/type-one.mkii))
+system          : texexec.top loaded
+(./texexec.top)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 af->ec:ec->8->2:2 gb->ec:ec->9->2:2 fr->texnansi:texnansi->1
+0->2:2 fr->ec:ec->11->2:2 es->ec:ec->12->2:2 ca->ec:ec->13->2:2 it->texnansi:te
+xnansi->14->2:2 it->ec:ec->15->2:2 la->ec:ec->16->2:2 pt->texnansi:texnansi->17
+->2:2 pt->ec:ec->18->2:2 ro->ec:ec->19->2:2 pl->pl0:pl0->20->2:2 pl->ec:ec->21-
+>2:2 pl->qx:qx->22->2:2 cs->il2:il2->23->2:2 cs->ec:ec->24->2:2 sk->il2:il2->25
+->2:2 sk->ec:ec->26->2:2 hr->ec:ec->27->2:2 sl->ec:ec->28->2:2 tr->ec:ec->29->2
+:2 tk->ec:ec->30->1:2 lt->l7x:l7x->31->2:2 agr->agr:agr->33->2:2 fi->ec:ec->34-
+>2:2 hu->ec:ec->35->2:2 ru->t2a:t2a->37->2:2 uk->t2a:t2a->38->3:3  loaded
+specials        : dvips loaded
+\openout3 = `texexec.tui'.
+
+\openout0 = `texexec-mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/share/texmf-dist/tex/context/base/mkii/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/share/texmf-dist/tex/context/base/mkii/spec-fdf.mkii))
+publications    : file texexec.bbl not found, waiting for bibtex
+systems         : begin file texexec at line 1
+{/usr/share/texmf-dist/fonts/map/pdftex/context/original-empty.map}{/usr/share/
+texmf-dist/fonts/map/pdftex/context/original-base.map}{/usr/share/texmf-dist/fo
+nts/map/pdftex/context/original-ams-base.map}{/usr/share/texmf-dist/fonts/map/p
+dftex/context/original-public-lm.map}{/usr/share/texmf-dist/fonts/map/dvips/lm/
+lm-ec.map}{/usr/share/texmf-dist/fonts/map/dvips/lm/lm-math.map}{/usr/share/tex
+mf-dist/fonts/map/dvips/lm/lm-rm.map}{/usr/share/texmf-dist/fonts/map/pdftex/co
+ntext/original-ams-euler.map}
+figures         : dimensions of ra.pdf loaded from figurefile itself
+(/usr/share/texmf-dist/tex/context/base/mkii/sort-def.mkii)
+(/usr/share/texmf-dist/tex/context/base/mkii/sort-lan.mkii) [1.1 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[2.2 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[3.3 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[4.4 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[5.5 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[6.6 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[7.7 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[8.8 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[9.9 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[10.10 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[11.11 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[12.12 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[13.13 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[14.14 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[15.15 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[16.16 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[17.17 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[18.18 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[19.19 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[20.20 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[21.21 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[22.22 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[23.23 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[24.24 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[25.25 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[26.26 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[27.27 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[28.28 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[29.29 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[30.30 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[31.31 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[32.32 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[33.33 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[34.34 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[35.35 <./ra.pdf>]
+figures         : dimensions of ra.pdf loaded from figurefile itself
+[36.36 <./ra.pdf>]
+figures         : dimensions of iso.pdf loaded from figurefile itself
+[37.37 <./iso.pdf>]
+figures         : dimensions of iso.pdf loaded from figurefile itself
+[38.38 <./iso.pdf>]
+systems         : end file texexec at line 40
+(/usr/share/texmf-dist/tex/context/base/mkii/cont-err.mkii
+systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
+) ) 
+Here is how much of TeX's memory you used:
+ 1033 strings out of 455498
+ 15985 string characters out of 5519100
+ 4870074 words of memory out of 9270903
+ 42350 multiletter control sequences out of 15000+600000
+ 82418 words of font info for 37 fonts, out of 8000000 for 9000
+ 581 hyphenation exceptions out of 8191
+ 43i,17n,41p,212b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on texexec.pdf (38 pages, 9050181 bytes).
+PDF statistics:
+ 575 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+

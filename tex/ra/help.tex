@@ -1,0 +1,33 @@
+\documentclass[a4paper,pagesize,openany,14pt,parskip=never]{scrbook}
+\KOMAoptions{twoside=false}
+\usepackage{lipsum}
+\usepackage{fontspec, newunicodechar}
+\newfontfamily\Nhebrew{Noto Serif Hebrew}
+%\usepackage{bidi}
+\title{Why can't I put a footnote on dedication page}
+\author{Help me please}
+\dedication{{\small Hello \\ 
+I want to put a footnote but it just turns into an asterisk\footnote{Why is this happening to me!?}}
+
+And there's no footnote! But if I stop loading \texttt{bidi} package, it appears. What can I do if I want to use \texttt{bidi}?? 
+%\begin{RTL}
+%{\Nhebrew
+%בבקשה תעזור לי
+%
+%}\end{RTL}
+\footnote{please}
+
+}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\addchap{Introduction}
+\lipsum
+\section{Two}
+\lipsum
+\addchap{Example}
+\lipsum
+\addchap{Hello}
+\lipsum
+\end{document}

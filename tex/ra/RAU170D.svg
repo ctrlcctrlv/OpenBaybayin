@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="101.09305mm"
+   height="101.09305mm"
+   viewBox="0 0 101.09305 101.09305"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="RAU170D.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="227.58757"
+     inkscape:cy="274.22021"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-left="1"
+     fit-margin-bottom="1"
+     inkscape:window-width="3840"
+     inkscape:window-height="2025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(307.31068,-162.28307)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#131313;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:1.1, 1.1;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815"
+       width="97.99305"
+       height="97.99305"
+       x="-305.76068"
+       y="163.83307" />
+    <g
+       aria-label="U+170D"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.879879px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03153145"
+       id="text819"
+       transform="translate(-0.44988095,-1.0583333)">
+      <path
+         d="m -278.11488,189.75897 v -9.0651 h -1.66283 v 9.0651 c 0,1.75223 -1.26947,2.82502 -3.36141,2.82502 -1.94891,0 -3.32566,-0.92975 -3.32566,-2.82502 v -9.0651 h -1.66283 v 9.0651 c 0,2.64622 1.89527,4.29117 4.98849,4.29117 3.05746,0 5.02424,-1.68071 5.02424,-4.29117 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path842"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -267.50038,189.86625 v -1.21583 h -3.39717 v -3.39718 h -1.21583 v 3.39718 h -3.39718 v 1.21583 h 3.39718 v 3.39718 h 1.21583 v -3.39718 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path844"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -260.08051,193.7283 v -12.67683 h -1.03703 c -0.55428,1.9489 -0.91187,2.2171 -3.34354,2.52106 v 1.12643 h 2.80714 v 9.02934 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path846"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -247.03462,182.64278 v -1.32311 h -8.47506 v 1.55555 h 6.84799 c -2.52106,3.18261 -4.30905,6.88375 -5.20304,10.85308 h 1.6807 c 0.69732,-4.09449 2.48531,-7.92078 5.14941,-11.08552 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path848"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -237.31439,187.63126 c 0,-4.39845 -1.39463,-6.57979 -4.14813,-6.57979 -2.73562,0 -4.14814,2.2171 -4.14814,6.47251 0,4.2733 1.4304,6.47252 4.14814,6.47252 2.68198,0 4.14813,-2.19922 4.14813,-6.36524 z m -1.60919,-0.14304 c 0,3.59386 -0.82247,5.20305 -2.5747,5.20305 -1.66283,0 -2.50319,-1.68071 -2.50319,-5.14941 0,-3.46869 0.84036,-5.09576 2.53895,-5.09576 1.69859,0 2.53894,1.64495 2.53894,5.04212 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path850"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -224.50094,187.20215 c 0,-4.04086 -2.00255,-6.50828 -5.31033,-6.50828 h -5.02424 v 13.03443 h 5.02424 c 3.2899,0 5.31033,-2.46742 5.31033,-6.52615 z m -1.66283,0.0179 c 0,3.28989 -1.35887,5.04212 -3.93358,5.04212 h -3.07533 v -10.10213 h 3.07533 c 2.57471,0 3.93358,1.73435 3.93358,5.06001 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.03153145"
+         id="path852"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="ᜍ"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.73182678px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.02298927"
+       id="text819-3"
+       transform="translate(-0.54802595,1.0583333)">
+      <path
+         d="m -271.07855,234.26381 c -2.55496,0 -4.48676,-0.59201 -5.76424,-1.80717 -1.27749,-1.21517 -1.90065,-2.83539 -1.90065,-4.89182 0,-2.46149 0.52969,-4.64256 1.58906,-6.51205 1.05938,-1.86948 2.43034,-3.39623 4.08172,-4.58024 0.87242,0.0935 1.74485,0.12464 2.67959,0.12464 2.08759,0 4.36214,-0.21811 6.85478,-0.68548 2.49265,-0.43622 6.35626,-1.49559 11.62198,-3.14697 3.61433,-1.12169 6.57435,-1.68254 8.91121,-1.68254 2.61728,0 4.9853,0.34274 7.10405,1.02822 2.11875,0.68548 4.51792,1.99412 7.19752,3.95708 l 2.6796,-3.42739 c -2.92887,-2.11875 -5.60846,-3.6455 -8.10111,-4.54909 -2.49265,-0.87242 -5.17224,-1.33979 -8.03879,-1.33979 -3.67666,0 -8.2569,0.90358 -13.74072,2.67959 -5.60846,1.86949 -10.40681,2.80423 -14.33273,2.80423 -2.58612,0 -4.86066,-0.3739 -6.82362,-1.12169 -1.96296,-0.74779 -4.26866,-2.05643 -6.9171,-3.98824 l -2.43033,3.58318 c 2.77307,2.0876 5.5773,3.6455 8.38153,4.67372 -1.58907,1.46443 -2.92886,3.24044 -3.98824,5.29688 -1.09053,2.08759 -1.62022,4.42445 -1.62022,7.01057 0,3.2716 1.12169,5.92004 3.36507,7.91416 2.24339,1.99411 5.29688,2.99117 9.12933,2.99117 1.62022,0 3.33391,-0.0935 5.17224,-0.31158 1.83833,-0.18695 4.14403,-0.65432 6.94826,-1.40211 2.80423,-0.71664 5.2034,-1.40212 7.25984,-2.02528 0.84126,-0.24926 1.68253,-0.46737 2.46149,-0.68548 1.68253,2.36802 4.2375,6.44973 5.98235,9.75249 l 4.0194,-2.08759 c -0.65432,-1.37096 -1.68254,-3.20929 -3.08466,-5.45267 -0.74779,-1.12169 -1.40211,-2.18107 -2.05643,-3.08465 0.49853,-0.0312 0.9659,-0.0623 1.43327,-0.0623 2.74191,0 5.17225,0.34274 7.22868,1.02822 2.05644,0.68548 4.42445,2.02527 7.07289,3.95708 l 2.6796,-3.45855 c -2.86655,-2.0876 -5.5773,-3.58318 -8.06995,-4.48677 -2.52381,-0.90358 -5.2034,-1.37096 -8.06995,-1.37096 -1.68254,0 -3.45855,0.18695 -5.32803,0.49853 -1.86949,0.34274 -4.70488,1.05938 -8.53732,2.18107 -3.0535,0.93474 -5.76425,1.62022 -8.06995,2.05644 -2.3057,0.43621 -4.64256,0.62316 -6.97942,0.62316 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OpenBaybayin;-inkscape-font-specification:OpenBaybayin;stroke-width:4.02298927"
+         id="path839"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -35,8 +35,8 @@
 \contentsline {section}{\numberline {0.12}Fonts}{29}{section.0.12}% 
 \contentsline {subsection}{\numberline {0.12.1}Paul Morrow's {\em Doctrina Christiana}}{29}{subsection.0.12.1}% 
 \contentsline {subsection}{\numberline {0.12.2}Paul Morrow's {\em Bikol Mintz}}{30}{subsection.0.12.2}% 
-\contentsline {subsection}{\numberline {0.12.3}Norman de los Santos' fonts}{30}{subsection.0.12.3}% 
-\contentsline {subsection}{\numberline {0.12.4}Lloyd Zapantas' fonts}{31}{subsection.0.12.4}% 
+\contentsline {subsection}{\numberline {0.12.3}Norman de los Santos' fonts}{31}{subsection.0.12.3}% 
+\contentsline {subsection}{\numberline {0.12.4}Lloyd Zapantas' fonts}{32}{subsection.0.12.4}% 
 \contentsline {section}{\numberline {0.13}Software}{33}{section.0.13}% 
 \contentsline {subsection}{\numberline {0.13.1}JC John Sese Cuneta's {\em Paninap Unicode Keyboard Layouts} (2010)}{33}{subsection.0.13.1}% 
 \contentsline {subsection}{\numberline {0.13.2}Xavier Nègre's {\em Lexilogos}}{34}{subsection.0.13.2}% 

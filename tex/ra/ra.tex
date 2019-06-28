@@ -1,3 +1,4 @@
+% NOTE: Build merge.pdf with `pdftk ra.pdf iso.pdf cat output merge.pdf` to preserve chapters and links, don't use texexec!! 
 \documentclass[a4paper,pagesize,openany,14pt,parskip=never]{scrbook}
 \KOMAoptions{twoside=false}
 \usepackage{tabularx}
@@ -18,16 +19,15 @@
 \usepackage{svg}
 \usepackage{graphicx}
 \usepackage{xcolor}
-\usepackage{bidicontour}
 \hypersetup{
     colorlinks,
     linkcolor={blue!50!black},
     citecolor={blue!50!black},
     urlcolor={blue!50!black}
 }
-\usepackage{bidi}
 \usepackage{cleveref}
 \usepackage[inline]{enumitem}
+\usepackage{pdfpages}
 \crefformat{footnote}{#2\footnotemark[#1]#3}
 \newcommand{\≈}{$\approx$}
 \newcommand{\la}{{\baybayin ᜎ}}
@@ -47,11 +47,25 @@
 \usepackage{blindtext}
 \title{The {\em baybayin} ``ra''---{\baybayin ᜍ}}
 \author{Fredrick R. Brennan \\ <copypaste@kittens.ph>}
+
+\titlehead{\begin{center}
+  \makebox[0pt][c]{\smash{%
+    \parbox[t][\dimexpr\textheight-\ht\strutbox\relax][b]{\textwidth}{%
+        \centering
+      \includesvg[width=0.5\textwidth]{RAU170D}
+      }}}
+\end{center}
+  }
+
 \subtitle{its origins and a plea for its formal recognition}
 \dedication{{\small\em Special thanks to: \\
+Deborah Anderson\footnote{Script Encoding Initiative/Universal Scripts Project, UC Berkeley}, for her much needed expertise and review \\
 Renan Pagador, without whom this request would not have been possible \\
-Deborah Anderson, for her much needed expertise and review \\
-Norman de los Santos, for his kind support of this proposal and thoughts} \\
+Jayson Villaruz, for his help in finding materials \\
+Norman de los Santos, for his kind support of this proposal and expertise \\
+\symbol{"200C}\\
+And finally, all the staff at Ateneo de Manila University's Rizal Library for graciously allowing me to browse their Filipiniana archives \\
+\symbol{"200C}} \\
 \symbol{"200C}\\
 \ra\ra\ra\ra \\
 \symbol{"200C}\\
@@ -86,12 +100,12 @@ The variants of the marked {\baybayin ᜇ} form of the letter {\baybayin ᜍ} ar
 I am aware of the following stylistic variants of the modern \ra:
 
 \begin{enumerate}
-    \item Generic --- \ra
-    \item Generic, longer stroke --- {\baybayinb \symbol{"E006}}
-    \item Rizaleo --- \rizaleoRA
-    \item Bikol --- {\baybayinb \symbol{"E004}}
-    \item Applied to a cursive {\baybayinb \symbol{"E007}} --- {\baybayinb \symbol{"E008}}
-    \item\label{DoubleLoop} Double cursive loop --- {\baybayinb \symbol{"E009}}
+    \item Generic --- \ra\ (\S\ref{Android}; \S\ref{Surat})
+    \item Generic, longer stroke --- {\baybayinb \symbol{"E006}}\ (\S\ref{MB2018})
+    \item Rizaleo --- \rizaleoRA\ (\S\ref{RizaleoC})
+    \item Bikol --- {\baybayinb \symbol{"E004}}\ (\S\ref{BED})
+    \item Applied to a cursive {\baybayinb \symbol{"E007}} --- {\baybayinb \symbol{"E008}}\ (\S\ref{Maharlika})
+    \item\label{DoubleLoop} Double cursive loop --- {\baybayinb \symbol{"E009}}\ (\S\ref{Kalem})
 \end{enumerate}
 
 This is not meant to be an exhaustive listing, there are definitely variants beyond those that I have listed; rather it is meant to be a list of the major stylistic variants I've seen in reviewing works written in the {\em baybayin} script.
@@ -240,6 +254,7 @@ All the styles in the book are named after Jos\'e Rizal, so the {\baybayin ᜍ} 
 \includegraphics[width=0.7\textwidth]{Rizal-fontsF}
 \end{figure}
 \newpage
+\label{RizaleoC}
 Diaz was also a calligrapher, and included this calligraphy in the book. It is almost the same as typical modern {\em baybayin}, except Diaz marks the vowel `a' with a line above, which to my knowledge no other {\em baybayin} does.
 
 \begin{figure}[H]
@@ -280,6 +295,7 @@ The modern {\baybayin ᜍ} can be found on page {181} in a rather unusual exampl
 %\end{figure}
 
 \subsection{{\em Kalem (Anak Bathala)}, №1, 2013, BHM Publishing, graphic novel}
+\label{Kalem}
 
 The modern {\baybayin ᜍ} can be found all throughout this book; notably on the cover to transcribe the name of two of its authors, Bernard Mo{\bfseries r}illo and Edsel Af{\bfseries r}ica.
 
@@ -298,6 +314,7 @@ Tagalog: Hindi ko alam kung bakit tayo narito sa daigdig ng mga tao, kung bakit 
 English: I don't know why we're here on this Earth of the humans, or why Detinos brought us here. But as long as we're here, I'll play around.
 
 \subsection{Kristian Kabuay's {\em Surat Magazine}, \textnumero 1, December 2018}
+\label{Surat}
 
 The publication of this magazine was funded by a Kickstarter\footnote{\url{https://www.kickstarter.com/projects/baybayin/surat-1st-magazine-using-an-endangered-script-in-5/posts/2342594}---Kabuay rose \$3,136 and wrote of the magazine: {\em The inaugural Surat (to write) Magazine will be mainly written using indigenous writing systems in the Philippines in multiple languages covering topics from culture, art, poetry, food, fashion, travel, etc.}} and was billed as ``The first of it's kind in over 50 years."
 
@@ -334,6 +351,7 @@ And the final appearance of \ra:
 Several large news publications in the Philippines have produced articles which include the letter {\baybayin ᜍ}.
 
 \subsection{Reniel Pamplona's {\em Modernizing Baybayin}, Rappler, 2018}
+\label{MB2018}
 
 \begin{figure}[H]
 \includegraphics[width=0.7\textwidth]{RapplerRA}
@@ -362,6 +380,7 @@ Plenty of tattoos including the \ra\ can be easily found on the web; how tragic 
 Three examples are shown below, others may be seen at the website of the ``{\em Ang Muling Paglaganap ng Baybayin script ng Pilipinas}'' (Reform of the Philippines' {\em baybayin} script) at <\url{https://baybayinipalaganap.blogspot.com/2015/06/baybayin-script-sa-mga-tattoo.html}> and across Facebook and Twitter.
 
 \subsection{{\em Maharlika}, {\baybayin ᜋᜑᜍ᜔ᜎᜒᜃ}, October 2018}
+\label{Maharlika}
 \begin{figure}[H]
 \includegraphics[width=0.7\textwidth]{Maharlika}
 \end{figure}
@@ -429,6 +448,10 @@ This font is meant to reproduce digitally the style in the first printed\footnot
 Despite---or, perhaps, because of---this pedigree, this font is quite popular for writing {\em baybayin}; the {\em baybayin} script which appears on Philippine currency and the Philippine passport uses this font.\footnote{Kabuay, Kristian, {\em The man behind the Baybayin on the new Peso bills}, December 16 2010, ``The Baybayin community is quite excited with the new Peso bills just announced. [\ldots] The moment I saw it, I knew it was one of Paul Morrow‘s fonts.''}
 
 This font puts a {\baybayin ᜇ} at U+170D; the revision of the font shown below is the 2003 revision.
+
+\begin{figure}[H]
+\includegraphics[width=0.7\textwidth]{TD1593}
+\end{figure}
 
 \subsection{Paul Morrow's {\em Bikol Mintz}}
 
@@ -509,6 +532,7 @@ While originally (2009) Lexilogos did not support \ra, according to the Wayback 
 
 \newpage
 \subsection{Android apps}
+\label{Android}
 \subsubsection{Craig Miralles's {\em Learn Baybayin}}
 
 {\em Learn Baybayin} is an Android application, which according to Google has been installed over ten thousand times.\footnote{\url{https://play.google.com/store/apps/details?id=learn.baybayin}}
