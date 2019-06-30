@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357739617
-ModificationTime: 1561713757
+ModificationTime: 1561882667
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -89,7 +89,7 @@ KernClass2: 19 18 "Letter kerning"
  3 _wa
  2 _e
  6 _o _za
- 3 _fa
+ 7 _pa.alt
  8 pamudpod
  2 _a
  2 _i
@@ -99,7 +99,7 @@ KernClass2: 19 18 "Letter kerning"
  3 _ta
  7 _da _ra
  3 _na
- 11 _pa _ya _fa
+ 15 _pa _ya _pa.alt
  3 _ba
  3 _ma
  3 _la
@@ -136,21 +136,22 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 1.0" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL"
 GaspTable: 2 8 2 65535 3 0
-Encoding: Custom
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 32 8 4
+WinInfo: 0 17 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 249259 124629 83086 0 -870534 83086 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-2" "'mkmk' Mark to Mark lookup 2-1" "Anchor-0" "Top mark position" "Anchor-1" "Bottom mark position"
-BeginChars: 117 50
+BeginChars: 1114115 48
 
 StartChar: .notdef
-Encoding: 25 0 0
+Encoding: 0 0 0
 Width: 1229
 VWidth: 2048
 GlyphClass: 2
@@ -173,7 +174,7 @@ Validated: 1
 EndChar
 
 StartChar: uniFEFF
-Encoding: 0 65279 1
+Encoding: 65279 65279 1
 AltUni2: 000000.ffffffff.0
 Width: 0
 VWidth: 2048
@@ -184,31 +185,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: uni000D
-Encoding: 1 13 2
-Width: 1044
-VWidth: 2048
-GlyphClass: 2
-Flags: HMW
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
-StartChar: space
-Encoding: 2 32 3
-AltUni2: 0000a0.ffffffff.0
-Width: 532
-VWidth: 2048
-GlyphClass: 2
-Flags: HMW
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: _a
-Encoding: 3 5888 4
+Encoding: 5888 5888 2
 Width: 2077
 VWidth: 2048
 GlyphClass: 2
@@ -264,7 +242,7 @@ Validated: 1
 EndChar
 
 StartChar: _i
-Encoding: 4 5889 5
+Encoding: 5889 5889 3
 Width: 2071
 VWidth: 2048
 GlyphClass: 2
@@ -317,11 +295,12 @@ EndSplineSet
 EndChar
 
 StartChar: _u
-Encoding: 5 5890 6
+Encoding: 5890 5890 4
 Width: 1096
 VWidth: 2048
 GlyphClass: 2
 Flags: HMW
+AnchorPoint: "Anchor-0" 581 1452 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -356,11 +335,10 @@ SplineSet
  364.5 1129 318.333333333 1113.33333333 279 1094 c 1
  221 1223 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: _ka
-Encoding: 6 5891 7
+Encoding: 5891 5891 5
 Width: 2015
 VWidth: 2048
 GlyphClass: 2
@@ -414,7 +392,7 @@ Validated: 1
 EndChar
 
 StartChar: _ga
-Encoding: 7 5892 8
+Encoding: 5892 5892 6
 Width: 1714
 VWidth: 2048
 GlyphClass: 2
@@ -475,7 +453,7 @@ Validated: 1
 EndChar
 
 StartChar: _nga
-Encoding: 8 5893 9
+Encoding: 5893 5893 7
 Width: 2071
 VWidth: 2048
 GlyphClass: 2
@@ -539,7 +517,7 @@ Validated: 1
 EndChar
 
 StartChar: _ta
-Encoding: 9 5894 10
+Encoding: 5894 5894 8
 Width: 1997
 VWidth: 2048
 GlyphClass: 2
@@ -573,7 +551,7 @@ Validated: 1
 EndChar
 
 StartChar: _da
-Encoding: 10 5895 11
+Encoding: 5895 5895 9
 Width: 2146
 VWidth: 2048
 GlyphClass: 2
@@ -625,7 +603,7 @@ Validated: 1
 EndChar
 
 StartChar: _na
-Encoding: 11 5896 12
+Encoding: 5896 5896 10
 Width: 1741
 VWidth: 2048
 GlyphClass: 2
@@ -701,8 +679,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: _pa
-Encoding: 12 5897 13
+StartChar: _pa.alt
+Encoding: 57360 57360 11
 Width: 2107
 VWidth: 2048
 GlyphClass: 2
@@ -753,10 +731,11 @@ SplineSet
  421 131.666666667 397 208.333333333 397 309 c 0
 EndSplineSet
 Validated: 1
+Ligature2: "vsliga subtable" _pa uniFE00
 EndChar
 
 StartChar: _ba
-Encoding: 13 5898 14
+Encoding: 5898 5898 12
 Width: 1743
 VWidth: 2048
 GlyphClass: 2
@@ -803,7 +782,7 @@ Validated: 1
 EndChar
 
 StartChar: _ma
-Encoding: 14 5899 15
+Encoding: 5899 5899 13
 Width: 2109
 VWidth: 2048
 GlyphClass: 2
@@ -853,8 +832,8 @@ EndSplineSet
 EndChar
 
 StartChar: _ya
-Encoding: 15 5900 16
-Width: 2107
+Encoding: 5900 5900 14
+Width: 2175
 VWidth: 2048
 GlyphClass: 2
 Flags: HMW
@@ -863,42 +842,42 @@ AnchorPoint: "Anchor-0" 1065 1420 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1951 1123 m 128
- 1924.33333333 1147 1889.66666667 1159 1847 1159 c 0
- 1810.33333333 1159 1776.83333333 1149.33333333 1746.5 1130 c 128
- 1716.16666667 1110.66666667 1685.66666667 1081.5 1655 1042.5 c 128
- 1624.33333333 1003.5 1578.66666667 929.666666667 1518 821 c 0
- 1395.33333333 607 1288.33333333 443.166666667 1197 329.5 c 128
- 1105.66666667 215.833333333 1017.33333333 132.5 932 79.5 c 128
- 846.666666667 26.5 762 0 678 0 c 0
- 586.666666667 0 517 26.3333333333 469 79 c 128
- 421 131.666666667 397 208.333333333 397 309 c 0
- 397 381 413.333333333 490.333333333 446 637 c 0
- 454.666666667 675 459 718 459 766 c 1
- 119 766 l 1
+1855 1298 m 0
+ 1795 1298 1743.83333333 1288.33333333 1701.5 1269 c 128
+ 1659.16666667 1249.66666667 1620.83333333 1222.33333333 1586.5 1187 c 128
+ 1552.16666667 1151.66666667 1519.5 1108.5 1488.5 1057.5 c 128
+ 1457.5 1006.5 1423.33333333 949.666666667 1386 887 c 0
+ 1264 677.666666667 1165 523.833333333 1089 425.5 c 128
+ 1013 327.166666667 941.833333333 254.833333333 875.5 208.5 c 128
+ 809.166666667 162.166666667 746 139 686 139 c 0
+ 598.666666667 139 555 191 555 295 c 0
+ 555 333 556.833333333 371 560.5 409 c 128
+ 564.166666667 447 574 501.666666667 590 573 c 0
+ 607.333333333 647 616 704.333333333 616 745 c 0
+ 616 803 599.5 844.166666667 566.5 868.5 c 128
+ 533.5 892.833333333 480.666666667 905 408 905 c 2
  119 905 l 1
- 408 905 l 2
- 480.666666667 905 533.5 892.833333333 566.5 868.5 c 128
- 599.5 844.166666667 616 803 616 745 c 0
- 616 704.333333333 607.333333333 647 590 573 c 0
- 574 501.666666667 564.166666667 447 560.5 409 c 128
- 556.833333333 371 555 333 555 295 c 0
- 555 191 598.666666667 139 686 139 c 0
- 746 139 809.166666667 162.166666667 875.5 208.5 c 128
- 941.833333333 254.833333333 1013 327.166666667 1089 425.5 c 128
- 1165 523.833333333 1264 677.666666667 1386 887 c 0
- 1423.33333333 949.666666667 1457.5 1006.5 1488.5 1057.5 c 128
- 1519.5 1108.5 1552.16666667 1151.66666667 1586.5 1187 c 128
- 1620.83333333 1222.33333333 1659.16666667 1249.66666667 1701.5 1269 c 128
- 1743.83333333 1288.33333333 1795 1298 1855 1298 c 0
- 1935.66666667 1298 2003 1272.83333333 2057 1222.5 c 128
- 1951 1123 l 128
+ 119 766 l 1
+ 459 766 l 1
+ 459 718 454.666666667 675 446 637 c 0
+ 413.333333333 490.333333333 397 381 397 309 c 0
+ 397 208.333333333 421 131.666666667 469 79 c 128
+ 517 26.3333333333 586.666666667 0 678 0 c 0
+ 762 0 846.666666667 26.5 932 79.5 c 128
+ 1017.33333333 132.5 1105.66666667 215.833333333 1197 329.5 c 128
+ 1288.33333333 443.166666667 1395.33333333 607 1518 821 c 0
+ 1578.66666667 929.666666667 1624.33333333 1003.5 1655 1042.5 c 128
+ 1685.66666667 1081.5 1716.16666667 1110.66666667 1746.5 1130 c 128
+ 1776.83333333 1149.33333333 1810.33333333 1159 1847 1159 c 0
+ 1935 1159 2002.66666667 1118 2034 1036 c 1
+ 2163 1092 l 1
+ 2135.66666667 1156.66666667 2096.66666667 1207.16666667 2046 1243.5 c 128
+ 1995.33333333 1279.83333333 1925.66699219 1298 1855 1298 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: _la
-Encoding: 16 5902 17
+Encoding: 5902 5902 15
 Width: 1870
 VWidth: 2048
 GlyphClass: 2
@@ -960,7 +939,7 @@ Validated: 1
 EndChar
 
 StartChar: _wa
-Encoding: 17 5903 18
+Encoding: 5903 5903 16
 Width: 1559
 VWidth: 2048
 GlyphClass: 2
@@ -1004,7 +983,7 @@ Validated: 1
 EndChar
 
 StartChar: _sa
-Encoding: 18 5904 19
+Encoding: 5904 5904 17
 Width: 1888
 VWidth: 2048
 GlyphClass: 2
@@ -1058,7 +1037,7 @@ Validated: 1
 EndChar
 
 StartChar: _ha
-Encoding: 19 5905 20
+Encoding: 5905 5905 18
 Width: 2148
 VWidth: 2048
 GlyphClass: 2
@@ -1089,7 +1068,7 @@ Validated: 1
 EndChar
 
 StartChar: kudlit.i
-Encoding: 20 5906 21
+Encoding: 5906 5906 19
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1109,7 +1088,7 @@ EndSplineSet
 EndChar
 
 StartChar: kudlit.u
-Encoding: 21 5907 22
+Encoding: 5907 5907 20
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1129,7 +1108,7 @@ EndSplineSet
 EndChar
 
 StartChar: virama
-Encoding: 22 5908 23
+Encoding: 5908 5908 21
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1156,7 +1135,7 @@ Substitution2: "Virama" virama.alt
 EndChar
 
 StartChar: danda
-Encoding: 23 5941 24
+Encoding: 5941 5941 22
 Width: 774
 VWidth: 2048
 GlyphClass: 2
@@ -1174,20 +1153,20 @@ Validated: 1
 EndChar
 
 StartChar: doubledanda
-Encoding: 24 5942 25
+Encoding: 5942 5942 23
 Width: 1091
 VWidth: 2048
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 24 5941 N 1 0 0 1 32 0 2
-Refer: 24 5941 N 1 0 0 1 358 0 2
+Refer: 22 5941 N 1 0 0 1 32 0 2
+Refer: 22 5941 N 1 0 0 1 358 0 2
 Validated: 1
 EndChar
 
 StartChar: kudlit.e
-Encoding: 26 5909 26
+Encoding: 5909 5909 24
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1214,7 +1193,7 @@ Ligature2: "vsliga subtable" kudlit.i uniFE00
 EndChar
 
 StartChar: kudlit.o
-Encoding: 27 5910 27
+Encoding: 5910 5910 25
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1241,7 +1220,7 @@ Ligature2: "vsliga subtable" kudlit.u uniFE00
 EndChar
 
 StartChar: _ra
-Encoding: 28 5901 28
+Encoding: 5901 5901 26
 Width: 2146
 VWidth: 2048
 GlyphClass: 2
@@ -1303,7 +1282,7 @@ Ligature2: "vsliga subtable" _da uniFE00
 EndChar
 
 StartChar: _e
-Encoding: 29 5911 29
+Encoding: 5911 5911 27
 Width: 2071
 VWidth: 2048
 Flags: HMW
@@ -1357,7 +1336,7 @@ Ligature2: "vsliga subtable" _i uniFE00
 EndChar
 
 StartChar: _o
-Encoding: 30 5912 30
+Encoding: 5912 5912 28
 Width: 1096
 VWidth: 2048
 Flags: HMW
@@ -1395,7 +1374,7 @@ Ligature2: "vsliga subtable" _u uniFE00
 EndChar
 
 StartChar: _za
-Encoding: 31 5913 31
+Encoding: 5913 5913 29
 Width: 1888
 VWidth: 2048
 GlyphClass: 2
@@ -1451,8 +1430,8 @@ LCarets2: 1 0
 Ligature2: "vsliga subtable" _sa uniFE00
 EndChar
 
-StartChar: _fa
-Encoding: 32 5914 32
+StartChar: _pa
+Encoding: 5897 5897 30
 Width: 2191
 VWidth: 2048
 GlyphClass: 2
@@ -1469,18 +1448,18 @@ SplineSet
  1034 344 1146.33333333 492 1281 706 c 2
  1473 1008 l 2
  1537 1112 1598.5 1186.33333333 1657.5 1231 c 128
- 1716.5 1275.66666667 1785.33333333 1298 1864 1298 c 0
- 1934.66666667 1298 1995.33333333 1279.83333333 2046 1243.5 c 128
- 2096.66666667 1207.16666667 2135.66666667 1156.66666667 2163 1092 c 1
- 2034 1036 l 1
- 2002.66666667 1118 1943 1159 1855 1159 c 0
+ 1716.5 1275.66666667 1785.33333333 1298 1864 1298 c 4
+ 1934.66666667 1298 1995.33333333 1279.83333333 2046 1243.5 c 132
+ 2096.66666667 1207.16666667 2135.66666667 1156.66666667 2163 1092 c 5
+ 2034 1036 l 5
+ 2002.66666667 1118 1943 1159 1855 1159 c 4
  1807 1159 1763.83333333 1142.66666667 1725.5 1110 c 128
  1687.16666667 1077.33333333 1644.33333333 1022 1597 944 c 2
- 1528 827 l 5
- 1561.33333333 785 1600.66666667 728 1646 656 c 132
- 1691.33333333 584 1724.33333333 525.666666667 1745 481 c 5
- 1616 414 l 5
- 1556 530 1499.33333333 624 1446 696 c 5
+ 1528 827 l 1
+ 1561.33333333 785 1600.66666667 728 1646 656 c 128
+ 1691.33333333 584 1724.33333333 525.666666667 1745 481 c 1
+ 1616 414 l 1
+ 1556 530 1499.33333333 624 1446 696 c 1
  1346.66666667 536.666666667 1270.66666667 422.833333333 1218 354.5 c 128
  1165.33333333 286.166666667 1116.33333333 230.166666667 1071 186.5 c 128
  1025.66666667 142.833333333 980.333333333 107.166666667 935 79.5 c 128
@@ -1501,11 +1480,10 @@ SplineSet
 EndSplineSet
 Validated: 1
 LCarets2: 1 0
-Ligature2: "vsliga subtable" _pa uniFE00
 EndChar
 
 StartChar: _va
-Encoding: 33 5915 33
+Encoding: 5915 5915 31
 Width: 1743
 VWidth: 2048
 GlyphClass: 2
@@ -1662,7 +1640,7 @@ Ligature2: "vsliga subtable" _ba uniFE00
 EndChar
 
 StartChar: pamudpod
-Encoding: 34 5940 34
+Encoding: 5940 5940 32
 Width: 185
 VWidth: 0
 GlyphClass: 2
@@ -1740,19 +1718,19 @@ Substitution2: "pamudpodA" pamudpod.alt
 EndChar
 
 StartChar: pallawa
-Encoding: 35 6686 35
+Encoding: 6686 6686 33
 Width: 1164
 VWidth: 2048
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 22 5907 N 1 0 0 1 580 1035 2
-Refer: 22 5907 N 1 0 0 1 900 443 2
-Refer: 22 5907 N 1 0 0 1 264 1623 2
+Refer: 20 5907 N 1 0 0 1 580 1035 2
+Refer: 20 5907 N 1 0 0 1 900 443 2
+Refer: 20 5907 N 1 0 0 1 264 1623 2
 EndChar
 
 StartChar: virama.alt
-Encoding: 36 -1 36
+Encoding: 1114113 -1 34
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -1778,39 +1756,39 @@ EndSplineSet
 EndChar
 
 StartChar: padalawa
-Encoding: 37 57344 37
+Encoding: 57344 57344 35
 Width: 524
 VWidth: 2048
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 22 5907 N 1 0 0 1 272 619 2
-Refer: 22 5907 N 1 0 0 1 272 1259 2
+Refer: 20 5907 N 1 0 0 1 272 619 2
+Refer: 20 5907 N 1 0 0 1 272 1259 2
 EndChar
 
 StartChar: padalawat_hati
-Encoding: 38 57345 38
+Encoding: 57345 57345 36
 Width: 524
 VWidth: 2048
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 27 5910 N 1 0 0 1 272 619 2
-Refer: 22 5907 N 1 0 0 1 272 1259 2
+Refer: 25 5910 N 1 0 0 1 272 619 2
+Refer: 20 5907 N 1 0 0 1 272 1259 2
 EndChar
 
 StartChar: pahantig
-Encoding: 39 57346 39
+Encoding: 57346 57346 37
 Width: 524
 VWidth: 2048
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 22 5907 S 1 0 0 1 272 1069 2
+Refer: 20 5907 S 1 0 0 1 272 1069 2
 EndChar
 
 StartChar: uniFE00
-Encoding: 40 65024 40
+Encoding: 65024 65024 38
 Width: 2239
 VWidth: 2048
 GlyphClass: 1
@@ -2258,16 +2236,8 @@ EndSplineSet
 Comment: "TAGALOG VARIANT SELCTOR 1"
 EndChar
 
-StartChar: uniFE01
-Encoding: 41 65025 41
-Width: 0
-VWidth: 2048
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: ra.alt
-Encoding: 42 57347 42
+Encoding: 57347 57347 39
 Width: 1619
 VWidth: 0
 InSpiro: 1
@@ -2598,7 +2568,7 @@ EndSplineSet
 EndChar
 
 StartChar: _ra.2
-Encoding: 43 57348 43
+Encoding: 57348 57348 40
 Width: 2146
 VWidth: 2048
 Flags: W
@@ -2658,7 +2628,7 @@ EndSplineSet
 EndChar
 
 StartChar: _ra.3
-Encoding: 44 57349 44
+Encoding: 57349 57349 41
 Width: 2146
 VWidth: 2048
 Flags: W
@@ -2715,7 +2685,7 @@ EndSplineSet
 EndChar
 
 StartChar: _ra.4
-Encoding: 45 57350 45
+Encoding: 57350 57350 42
 Width: 2146
 VWidth: 2048
 Flags: W
@@ -2782,7 +2752,7 @@ EndSplineSet
 EndChar
 
 StartChar: _da.2
-Encoding: 46 57351 46
+Encoding: 57351 57351 43
 Width: 2146
 VWidth: 0
 InSpiro: 1
@@ -3149,7 +3119,7 @@ EndSplineSet
 EndChar
 
 StartChar: _ra.5
-Encoding: 47 57352 47
+Encoding: 57352 57352 44
 Width: 2146
 VWidth: 0
 Flags: W
@@ -3224,7 +3194,7 @@ EndSplineSet
 EndChar
 
 StartChar: _ra.6
-Encoding: 48 57353 48
+Encoding: 57353 57353 45
 Width: 2146
 VWidth: 0
 InSpiro: 1
@@ -3564,7 +3534,7 @@ EndSplineSet
 EndChar
 
 StartChar: pamudpod.alt
-Encoding: 49 -1 49
+Encoding: 1114114 -1 46
 Width: 185
 VWidth: 0
 InSpiro: 1
@@ -3638,6 +3608,14 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 47
+Width: 532
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
