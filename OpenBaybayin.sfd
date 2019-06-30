@@ -3,7 +3,7 @@ FontName: OpenBaybayin
 FullName: OpenBaybayin
 FamilyName: OpenBaybayin
 Weight: Regular
-Copyright: Copyright 2016 Fredrick Brennan <copypaste@kittens.ph>. Based on Noto Sans Tagalog, Copyright 2013 Google Inc. Some rights reserved. This font is licensed under the OFL SIL 1.1. See LICENSE file for more information.
+Copyright: Copyright 2016-2019 Fredrick Brennan <copypaste@kittens.ph>. Based on Noto Sans Tagalog, Copyright 2013 Google Inc. Some rights reserved. This font is licensed under the OFL SIL 1.1. See LICENSE file for more information.
 Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -205
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357739617
-ModificationTime: 1561882667
+ModificationTime: 1561895200
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ OS2StrikeYSize: 102
 OS2StrikeYPos: 512
 OS2CapHeight: 1434
 OS2XHeight: 1024
-OS2Vendor: 'GOOG'
+OS2Vendor: 'QQQQ'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000000.00000000.00100000.00000000
 Lookup: 5 0 0 "'calt' Contextual Alternates lookup 5" { "'calt' Contextual Alternates lookup 5-1"  } ['calt' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'latn' <'dflt' > 'tagl' <'dflt' > ) ]
@@ -63,6 +63,7 @@ Lookup: 1 0 0 "'ss03' Style Set 3 lookup 4" { "'ss03' Style Set 3 lookup 4-1"  }
 Lookup: 1 0 0 "'ss02' Style Set 2 lookup 3" { "'ss02' Style Set 2 lookup 3-1"  } ['ss02' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'tagl' <'dflt' > ) ]
 Lookup: 1 0 0 "'salt' Stylistic Alternatives lookup 0" { "Virama"  } ['salt' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'latn' <'dflt' > 'tagl' <'dflt' > ) ]
 Lookup: 4 0 1 "vsliga" { "vsliga subtable"  } ['liga' ('hano' <'dflt' > 'latn' <'dflt' > 'bugi' <'dflt' > 'tagl' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "raliga" { "raliga-1"  } ['liga' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'latn' <'dflt' > 'tagl' <'dflt' > ) ]
 Lookup: 1 0 0 "pamudpodA" { "pamudpodA"  } []
 Lookup: 258 8 0 "'kern' Horizontal kerning lookup 3" { "Letter kerning" [335,0,3] } ['kern' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'latn' <'dflt' > 'tagl' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "Top mark position"  } ['mark' ('DFLT' <'dflt' > 'bugi' <'dflt' > 'hano' <'dflt' > 'latn' <'dflt' > 'tagl' <'dflt' > ) ]
@@ -143,12 +144,12 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 17 4
+WinInfo: 32 8 2
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 249259 124629 83086 0 -870534 83086 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-2" "'mkmk' Mark to Mark lookup 2-1" "Anchor-0" "Top mark position" "Anchor-1" "Bottom mark position"
-BeginChars: 1114115 48
+BeginChars: 1114120 56
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -1224,9 +1225,9 @@ Encoding: 5901 5901 26
 Width: 2146
 VWidth: 2048
 GlyphClass: 2
-Flags: HMW
-AnchorPoint: "Anchor-1" 1131 0 basechar 0
+Flags: HMWO
 AnchorPoint: "Anchor-0" 1080 1420 basechar 0
+AnchorPoint: "Anchor-1" 1131 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1273,7 +1274,6 @@ SplineSet
  350 452.666666667 370.5 400.5 411.5 361.5 c 0
  452.5 322.5 514 303 596 303 c 0
 EndSplineSet
-Validated: 1
 LCarets2: 1 0
 Substitution2: "'ss03' Style Set 3 lookup 4-1" _ra.3
 Substitution2: "'ss02' Style Set 2 lookup 3-1" _ra.2
@@ -1730,7 +1730,7 @@ Refer: 20 5907 N 1 0 0 1 264 1623 2
 EndChar
 
 StartChar: virama.alt
-Encoding: 1114113 -1 34
+Encoding: 57361 57361 34
 Width: 0
 VWidth: 2048
 GlyphClass: 4
@@ -3534,7 +3534,7 @@ EndSplineSet
 EndChar
 
 StartChar: pamudpod.alt
-Encoding: 1114114 -1 46
+Encoding: 1114112 -1 46
 Width: 185
 VWidth: 0
 InSpiro: 1
@@ -3616,6 +3616,110 @@ Width: 532
 VWidth: 0
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: _ra_kudliti
+Encoding: 1114113 -1 48
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 19 5906 N 1 0 0 1 1074 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra kudlit.i
+Decomposition: "+Fw0XEgAA"
+EndChar
+
+StartChar: _ra_kudlitu
+Encoding: 1114114 -1 49
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 20 5907 N 1 0 0 1 1135 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra kudlit.u
+Decomposition: "+Fw0XEwAA"
+EndChar
+
+StartChar: _ra_kudlite
+Encoding: 1114115 -1 50
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 24 5909 N 1 0 0 1 1074 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra kudlit.e
+Decomposition: "+Fw0XFQAA"
+EndChar
+
+StartChar: _ra_kudlito
+Encoding: 1114116 -1 51
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 25 5910 N 1 0 0 1 1135 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra kudlit.o
+Decomposition: "+Fw0XFgAA"
+EndChar
+
+StartChar: _ra_virama
+Encoding: 1114117 -1 52
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 21 5908 N 1 0 0 1 1671 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra virama
+Decomposition: "+Fw0XFAAA"
+EndChar
+
+StartChar: _ra_viramaalt
+Encoding: 1114118 -1 53
+Width: 2146
+VWidth: 2048
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 34 57361 N 1 0 0 1 1671 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 3
+Ligature2: "raliga-1" _ra virama.alt
+Decomposition: "+Fw3gEQAA"
+EndChar
+
+StartChar: _ra_pamudpod
+Encoding: 1114119 -1 54
+Width: 2331
+VWidth: 2048
+Flags: HW
+AnchorPoint: "Anchor-0" 1080 1420 basechar 0
+AnchorPoint: "Anchor-1" 1131 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 32 5940 N 1 0 0 1 2146 0 2
+Refer: 26 5901 N 1 0 0 1 0 0 2
+Ligature2: "raliga-1" _ra pamudpod
+Decomposition: "+Fw0XNAAA"
+EndChar
+
+StartChar: pamudpod.tagl
+Encoding: 5916 5916 55
+Width: 185
+VWidth: 0
+Flags: W
+VStem: 1.26898 139<7.74302 892.765>
+LayerCount: 2
+Fore
+Refer: 32 5940 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
