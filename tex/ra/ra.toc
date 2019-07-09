@@ -16,30 +16,31 @@
 \contentsline {subsubsection}{\nonumberline Marius V. Diaz's {\em Aklat Sanayan ng Abakadang Rizaleo}, 1994}{17}{section*.6}% 
 \contentsline {chapter}{\nonumberline Further evidence}{20}{chapter*.7}% 
 \contentsline {section}{\numberline {0.7}Printed materials}{20}{section.0.7}% 
-\contentsline {subsection}{\numberline {0.7.1}Jean-Paul G. Potet's {\em Bayb\'ayin: L\textquotesingle Alphabet Syllabique des Tagals}, 2012 (French edition)}{20}{subsection.0.7.1}% 
-\contentsline {subsection}{\numberline {0.7.2}{\em Kalem (Anak Bathala)}, №1, 2013, BHM Publishing, graphic novel}{21}{subsection.0.7.2}% 
-\contentsline {subsection}{\numberline {0.7.3}Kristian Kabuay's {\em Surat Magazine}, \textnumero 1, December 2018}{22}{subsection.0.7.3}% 
-\contentsline {subsection}{\numberline {0.7.4}Wikipedia}{22}{subsection.0.7.4}% 
-\contentsline {section}{\numberline {0.8}News articles}{23}{section.0.8}% 
-\contentsline {subsection}{\numberline {0.8.1}Reniel Pamplona's {\em Modernizing Baybayin}, Rappler, 2018}{23}{subsection.0.8.1}% 
-\contentsline {subsection}{\numberline {0.8.2}Jayson R. Mangalus' {\em Decoding Baybayin}, Manila Bulletin, 2017}{24}{subsection.0.8.2}% 
-\contentsline {section}{\numberline {0.9}Tattoos}{25}{section.0.9}% 
-\contentsline {subsection}{\numberline {0.9.1}{\em Maharlika}, {\baybayin ᜋᜑᜍ᜔ᜎᜒᜃ}, October 2018}{25}{subsection.0.9.1}% 
-\contentsline {subsection}{\numberline {0.9.2}{\em Randy}, {\baybayin ᜍᜈ᜔ᜇ᜔ᜌ᜔} [{\em sic}], May 2018}{26}{subsection.0.9.2}% 
-\contentsline {subsection}{\numberline {0.9.3}{\em de la Torre}, {\baybayin ᜇᜒᜎ ᜆᜓᜍᜒ}, March 2016}{26}{subsection.0.9.3}% 
-\contentsline {section}{\numberline {0.10}Signs}{27}{section.0.10}% 
-\contentsline {subsection}{\numberline {0.10.1}{\em Sinagbayan} protest, June 12 2019}{27}{subsection.0.10.1}% 
-\contentsline {section}{\numberline {0.11}Art}{28}{section.0.11}% 
-\contentsline {subsection}{\numberline {0.11.1}Lloyd Zapanta, {\em Baybayin} logos, 2015--2017}{28}{subsection.0.11.1}% 
-\contentsline {subsection}{\numberline {0.11.2}Mural of Archie Oclos near Whang Od's Village, Kalinga}{29}{subsection.0.11.2}% 
-\contentsline {section}{\numberline {0.12}Fonts}{30}{section.0.12}% 
-\contentsline {subsection}{\numberline {0.12.1}Paul Morrow's {\em Doctrina Christiana}}{30}{subsection.0.12.1}% 
-\contentsline {subsection}{\numberline {0.12.2}Paul Morrow's {\em Bikol Mintz}}{31}{subsection.0.12.2}% 
-\contentsline {subsection}{\numberline {0.12.3}Norman de los Santos' fonts}{32}{subsection.0.12.3}% 
-\contentsline {subsection}{\numberline {0.12.4}Lloyd Zapantas' fonts}{33}{subsection.0.12.4}% 
-\contentsline {section}{\numberline {0.13}Software}{34}{section.0.13}% 
-\contentsline {subsection}{\numberline {0.13.1}JC John Sese Cuneta's {\em Paninap Unicode Keyboard Layouts} (2010)}{34}{subsection.0.13.1}% 
-\contentsline {subsection}{\numberline {0.13.2}Xavier Nègre's {\em Lexilogos}}{35}{subsection.0.13.2}% 
-\contentsline {subsection}{\numberline {0.13.3}Android apps}{36}{subsection.0.13.3}% 
-\contentsline {subsubsection}{\nonumberline Craig Miralles's {\em Learn Baybayin}}{36}{section*.8}% 
-\contentsline {subsubsection}{\nonumberline Team Three Bits' {\em Alamin Baybayin}}{36}{section*.9}% 
+\contentsline {subsection}{\numberline {0.7.1}Jeremiah Cordial's {\em The Seventh Moon}, 2018}{20}{subsection.0.7.1}% 
+\contentsline {subsection}{\numberline {0.7.2}Jean-Paul G. Potet's {\em Bayb\'ayin: L\textquotesingle Alphabet Syllabique des Tagals}, 2012 (French edition)}{21}{subsection.0.7.2}% 
+\contentsline {subsection}{\numberline {0.7.3}{\em Kalem (Anak Bathala)}, №1, 2013, BHM Publishing, graphic novel}{22}{subsection.0.7.3}% 
+\contentsline {subsection}{\numberline {0.7.4}Kristian Kabuay's {\em Surat Magazine}, \textnumero 1, December 2018}{23}{subsection.0.7.4}% 
+\contentsline {subsection}{\numberline {0.7.5}Wikipedia}{23}{subsection.0.7.5}% 
+\contentsline {section}{\numberline {0.8}News articles}{24}{section.0.8}% 
+\contentsline {subsection}{\numberline {0.8.1}Reniel Pamplona's {\em Modernizing Baybayin}, Rappler, 2018}{24}{subsection.0.8.1}% 
+\contentsline {subsection}{\numberline {0.8.2}Jayson R. Mangalus' {\em Decoding Baybayin}, Manila Bulletin, 2017}{25}{subsection.0.8.2}% 
+\contentsline {section}{\numberline {0.9}Tattoos}{26}{section.0.9}% 
+\contentsline {subsection}{\numberline {0.9.1}{\em Maharlika}, {\baybayin ᜋᜑᜍ᜔ᜎᜒᜃ}, October 2018}{26}{subsection.0.9.1}% 
+\contentsline {subsection}{\numberline {0.9.2}{\em Randy}, {\baybayin ᜍᜈ᜔ᜇ᜔ᜌ᜔} [{\em sic}], May 2018}{27}{subsection.0.9.2}% 
+\contentsline {subsection}{\numberline {0.9.3}{\em de la Torre}, {\baybayin ᜇᜒᜎ ᜆᜓᜍᜒ}, March 2016}{27}{subsection.0.9.3}% 
+\contentsline {section}{\numberline {0.10}Signs}{28}{section.0.10}% 
+\contentsline {subsection}{\numberline {0.10.1}{\em Sinagbayan} protest, June 12 2019}{28}{subsection.0.10.1}% 
+\contentsline {section}{\numberline {0.11}Art}{29}{section.0.11}% 
+\contentsline {subsection}{\numberline {0.11.1}Lloyd Zapanta, {\em Baybayin} logos, 2015--2017}{29}{subsection.0.11.1}% 
+\contentsline {subsection}{\numberline {0.11.2}Mural of Archie Oclos near Whang Od's Village, Kalinga}{30}{subsection.0.11.2}% 
+\contentsline {section}{\numberline {0.12}Fonts}{31}{section.0.12}% 
+\contentsline {subsection}{\numberline {0.12.1}Paul Morrow's {\em Doctrina Christiana}}{31}{subsection.0.12.1}% 
+\contentsline {subsection}{\numberline {0.12.2}Paul Morrow's {\em Bikol Mintz}}{32}{subsection.0.12.2}% 
+\contentsline {subsection}{\numberline {0.12.3}Norman de los Santos' fonts}{33}{subsection.0.12.3}% 
+\contentsline {subsection}{\numberline {0.12.4}Lloyd Zapantas' fonts}{34}{subsection.0.12.4}% 
+\contentsline {section}{\numberline {0.13}Software}{35}{section.0.13}% 
+\contentsline {subsection}{\numberline {0.13.1}JC John Sese Cuneta's {\em Paninap Unicode Keyboard Layouts} (2010)}{35}{subsection.0.13.1}% 
+\contentsline {subsection}{\numberline {0.13.2}Xavier Nègre's {\em Lexilogos}}{36}{subsection.0.13.2}% 
+\contentsline {subsection}{\numberline {0.13.3}Android apps}{37}{subsection.0.13.3}% 
+\contentsline {subsubsection}{\nonumberline Craig Miralles's {\em Learn Baybayin}}{37}{section*.8}% 
+\contentsline {subsubsection}{\nonumberline Team Three Bits' {\em Alamin Baybayin}}{37}{section*.9}% 
