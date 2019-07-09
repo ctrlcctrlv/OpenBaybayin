@@ -91,9 +91,11 @@ Some contemporary users of the script are okay with the ambiguity introduced by 
 
 \addchap{Unicode considerations}
 \section{Characters}
-I propose to encode only one character to cover all the variants discussed in this paper, to be encoded at U+170D and named \textsf{TAGALOG LETTER RA}. 
+I propose to encode only one character to cover all the modern variants discussed in this paper, to be encoded at U+170D and named \textsf{TAGALOG LETTER RA}. 
 
-The Zambales form of the {\baybayin ᜍ}, {\baybayinh ᜍ}, is only found in historical texts and can be encoded as U+170D and selected in a font by using the OpenType feature \texttt{hist}, \textsf{Historical Forms}, as I've done in the OpenBaybayin font that I made to typeset this document. In {\em baybayin} text, {\baybayinh ᜍ} has exactly the same meaning as {\baybayin ᜍ}, and I found no texts where both were in use except the one I'm writing.
+The Zambales form of the {\baybayin ᜍ}, {\baybayinh ᜍ}, is only found in historical texts and {\em could} be encoded as U+170D and selected in a font by using the OpenType feature \texttt{hist}, \textsf{Historical Forms}, as I've done in the OpenBaybayin font that I made to typeset this document. In {\em baybayin} text, {\baybayinh ᜍ} has exactly the same meaning as {\baybayin ᜍ}, and I found no texts where both were in use except the one I'm writing. I received some feedback from the Script Ad Hoc committee that ``It is graphically quite different from the RA you propose, though it has the same sound, so it should also be encoded.''
+
+Therefore, out of respect to Script Ad Hoc, I also propose the Zambales {\baybayinh ᜍ} be encoded at U+171F and receive name \textsf{TAGALOG LETTER ZAMBALES RA}. In my discussions with users, it is of utmost importance to them that \textsf{TAGALOG LETTER RA} (\ra) be encoded, but many would also welcome \textsf{TAGALOG LETTER ZAMBALES RA} ({\baybayinh ᜍ}) to be able to transcribe historical texts in which it appears. The situation can be seen as analogous to that of \textsf{LATIN SMALL LETTER LONG S} (ſ) and \textsf{LATIN SMALL LETTER S} (s). Ultimately the decision is up to the Consortium.
 
 The variants of the marked {\baybayin ᜇ} form of the letter {\baybayin ᜍ} are mere stylistic choices with equivalent meaning and can all be encoded in the same letter in the same way that Q, {\textfrak{Q}}, \textsf{Q}, \cochinQ, and $\mathscr{Q}$ can all be represented by \textsf{LATIN CAPITAL LETTER Q}, U+0051, with the style chosen being based on font. Indeed, as {\em baybayin} fonts are primarily made based on handwriting, it is unsurprising that there are so many variants; in the samples I observed, other letters had many variants as well; for example, at times \na\ would have a straight center line instead of the standard squiggly one in the \na\ used in this sentence.
 
@@ -117,6 +119,7 @@ The proposed General Category properties for \textsf{TAGALOG LETTER RA} are:
 
 \begin{verbatim}
 170D;TAGALOG LETTER RA;Lo;0;L;;;;;N;;;;;
+171F;TAGALOG LETTER ZAMBALES RA;Lo;0;L;;;;;N;;;;;
 \end{verbatim}
 
 \subsection{\texttt{NamesList.txt} character remark}
@@ -127,6 +130,12 @@ So end users and font designers better understand this glyph and its use, I prop
     Not used to write Old Tagalog.
 \end{quote}
 
+I propose that \textsf{TAGALOG LETTER ZAMBALES RA} receive the following character note in \texttt{NamesList.txt}:
+
+\begin{quote}
+    Not used to write Old Tagalog; historical form of TAGALOG LETTER RA.
+\end{quote}
+
 \section{Collation}
 
 In the original proposal, Everson writes on pages three to four:
@@ -135,7 +144,7 @@ In the original proposal, Everson writes on pages three to four:
     UTR\#3 states: “The alphabetical order of Tagalog is known from Tagbanwa speakers and is described in folktales. This order is used in the accompanying charts. The two vowel signs are added at the end of the alphabet.” The names list in UTR\#3, however, is (except for the vowel signs) given in Latin alphabetical order ({\em a, i, u, ba, da, ga, ha, ka, la, ma, na, nga, pa, sa, ta, wa, ya, -i, -u}). Daniels \& Bright give another ordering, “based on the 16th-century Tagalog sequence” ({\em a, i, u, ha, pa, ka, sa, la, ra, ta, na, ba, ma, ga, da, ya, nga, wa}). This proposal gives the characters in the traditional Brahmic order ({\em a, i, u, ka, ga, nga, ta, da, na, pa, ba, ma, ya, ra, la, wa, sa, ha}), which is followed in many sources, including Santos 1994 and 1995.
 \end{quote}
 
-This having been the standard for more than twenty years, I see no reason to change it; this Brahmic Unicode order is used by software such as the JavaScript input method Lexilogos (\S Lexilogos) and is the order that Norman de los Santos (\S\ref{Nordenx}) presents his fonts in. While some writers, such as Lloyd Zapantas (\S\ref{Lloyd}), use a Spanish-influenced collation,\footnote{That is to say, in order: {\baybayin ᜀᜊᜃᜇᜁᜄᜑᜎᜋᜈᜅᜂᜉᜍᜐᜆᜂᜏᜌ} (placement of {\baybayin ᜀᜁᜂ} may vary)} there is no reason in my opinion to change the standard collation to match.
+This having been the standard for more than twenty years, I see no reason to change it; this Brahmic Unicode order is used by software such as the JavaScript input method Lexilogos (\S\ref{Lexilogos}) and is the order that Norman de los Santos (\S\ref{Nordenx}) presents his fonts in. While some writers, such as Lloyd Zapantas (\S\ref{Lloyd}), use a Spanish-influenced collation,\footnote{That is to say, in order: {\baybayin ᜀᜊᜃᜇᜁᜄᜑᜎᜋᜈᜅᜂᜉᜍᜐᜆᜂᜏᜌ} (placement of {\baybayin ᜀᜁᜂ} may vary)} there is no reason in my opinion to change the standard collation to match.
 
 Therefore, I request for the collation to be as follows, matching \hanunoo\ and Buhid:
 
@@ -143,7 +152,11 @@ Therefore, I request for the collation to be as follows, matching \hanunoo\ and 
     {\baybayin ᜌ} $>$ {\baybayin ᜍ} $>$ {\baybayin ᜎ}
 \end{quote}
 
-That is to say, {\baybayin ᜌ} comes before {\baybayin ᜍ} comes before {\baybayin ᜎ}.
+That is to say, {\baybayin ᜌ} comes before {\baybayin ᜍ} comes before {\baybayin ᜎ}. Assuming \ra\ is encoded, {\baybayinh ᜍ} should come after it, so:
+
+\begin{quote}
+    {\baybayin ᜍ} $>$ {\baybayinh ᜍ} $>$ {\baybayin ᜎ}
+\end{quote}
 
 \addchap{History}
 
@@ -519,6 +532,7 @@ Despite not being in Unicode, U+170D once again is being used for \ra.
 
 \newpage
 \subsection{Xavier Nègre's {\em Lexilogos}}
+\label{Lexilogos}
 
 Lexilogos is a JavaScript input method that either runs in most web browsers, either from Nègre's website, Lexilogos.com, or by downloading the related page, in this case \texttt{baybayin.html}.
 
