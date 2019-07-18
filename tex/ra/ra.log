@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2019.7.8)  9 JUL 2019 21:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2019.7.8)  18 JUL 2019 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1051,25 +1051,27 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ] [2
 
 ]
-(./ra.toc
-Overfull \hbox (5.96216pt too wide) in paragraph at lines 21--21
- [][] [][][]\TU/TeXGyrePagella(0)/m/it/14.4 Kalem (Anak Bathala)\TU/TeXGyrePage
-lla(0)/m/n/14.4 , №1, 2013, BHM Publishing, graphic 
- []
+LaTeX Font Info:    Font shape `TU/TeXGyrePagella(0)/m/sl' in size <14.4> not a
+vailable
+(Font)              Font shape `TU/TeXGyrePagella(0)/m/it' tried instead on inp
+ut line 84.
 
 [3
 
 
+] (./ra.toc
+Overfull \hbox (5.96216pt too wide) in paragraph at lines 22--22
+ [][] [][][]\TU/TeXGyrePagella(0)/m/it/14.4 Kalem (Anak Bathala)\TU/TeXGyrePage
+lla(0)/m/n/14.4 , №1, 2013, BHM Publishing, graphic 
+ []
+
+[4
 
 ])
 \tf@toc=\write4
 \openout4 = `ra.toc'.
 
-LaTeX Font Info:    Font shape `TU/TeXGyrePagella(0)/m/sl' in size <14.4> not a
-vailable
-(Font)              Font shape `TU/TeXGyrePagella(0)/m/it' tried instead on inp
-ut line 76.
- [4]
+ [5]
 chapter without number
 
 Class scrbook Warning: \float@addtolists detected!
@@ -1086,36 +1088,50 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-[5
+[6
 
-] [6]
+] [7]
 chapter without number
-[7
+[8
 
 ]
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <17.28> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 125.
- [8] [9]
-chapter without number
 
 LaTeX Font Warning: Font shape `TU/OpenBaybayin(1)/bx/n' undefined
-(Font)              using `TU/OpenBaybayin(1)/m/n' instead on input line 163.
+(Font)              using `TU/OpenBaybayin(1)/m/n' instead on input line 128.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayinh' on input line 163.
+(hyperref)                removing `\baybayinh' on input line 128.
+
+[9] [10]
+chapter without number
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\baybayinh' on input line 182.
 
 File: ZambalesAlphabet.png Graphic file (type bmp)
 <ZambalesAlphabet.png>
-[10
+[11
 
 ]
 File: ZambalesRa1.png Graphic file (type bmp)
 <ZambalesRa1.png>
- [11]
+ [12]
+File: katinig.png Graphic file (type bmp)
+<katinig.png>
+ [13]
 File: PK.png Graphic file (type bmp)
 <PK.png>
- [12]
+
+Overfull \hbox (16.50726pt too wide) in paragraph at lines 233--236
+[]\TU/TeXGyrePagella(0)/m/n/14.4 Regarding the \TU/OpenBaybayin(1)/m/n/14.4 ᜍ \
+TU/TeXGyrePagella(0)/m/n/14.4 itself, it can be seen clearly in the words \TU/O
+penBaybayin(1)/m/n/14.4 ᜐᜍᜒᜎᜒ\TU/TeXGyrePagella(0)/m/n/14.4 —\TU/TeXGyrePagella
+(0)/m/it/14.4 sarili\TU/TeXGyrePagella(0)/m/n/14.4 , \TU/OpenBaybayin(1)/m/n/14
+.4 ᜃᜓᜍᜓᜃᜓᜍᜓ\TU/TeXGyrePagella(0)/m/n/14.4 —
+ []
+
+[14]
 File: Dict.png Graphic file (type bmp)
 <Dict.png>
 File: HandwritingZ.png Graphic file (type bmp)
@@ -1125,57 +1141,57 @@ File: PS.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-[14]
+ [15]
+[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayin' on input line 221.
+(hyperref)                removing `\baybayin' on input line 258.
 
 
 LaTeX Font Warning: Font shape `TU/OpenBaybayin(2)/bx/n' undefined
-(Font)              using `TU/OpenBaybayin(2)/m/n' instead on input line 222.
+(Font)              using `TU/OpenBaybayin(2)/m/n' instead on input line 259.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayinb' on input line 222.
+(hyperref)                removing `\baybayinb' on input line 259.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 222.
+(hyperref)                removing `\char' on input line 259.
 
 File: oldbikol3.png Graphic file (type bmp)
 <oldbikol3.png>
-[15]
+[17]
 File: DCover.png Graphic file (type bmp)
 <DCover.png>
- [16]
+ [18]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayinb' on input line 255.
+(hyperref)                removing `\baybayinb' on input line 292.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 255.
+(hyperref)                removing `\char' on input line 292.
 
 File: AR_PRS.png Graphic file (type bmp)
 <AR_PRS.png>
-[17]
+[19]
 File: Rizal-fontsF.png Graphic file (type bmp)
 <Rizal-fontsF.png>
- [18]
+ [20]
 File: ARCalligraphy.png Graphic file (type bmp)
 <ARCalligraphy.png>
 
-Overfull \hbox (1.31789pt too wide) in paragraph at lines 278--279
+Overfull \hbox (1.31789pt too wide) in paragraph at lines 315--316
 []\TU/OpenBaybayin(0)/m/n/14.4 ᜀᜅ᜔ ᜑᜒᜈ᜔ᜇᜒ ᜎᜓᜋᜒᜅᜓᜈ᜔ ᜐ ᜉᜒᜈᜅ᜔ᜄᜎᜒᜈ᜔ᜄᜈ᜔ ᜀᜌ᜔ ᜑᜒᜈ᜔ᜇᜒ ᜋ
 ᜃᜍᜍᜆᜒᜅ᜔ ᜐ ᜉᜆᜓᜆᜓᜅᜓᜑᜈ᜔᜶ 
  []
 
-[19]
+[21]
 chapter without number
 File: 7thMoon.jpg Graphic file (type bmp)
 <7thMoon.jpg>
-[20
+[22
 
 ]
 File: Potet2.jpg Graphic file (type bmp)
@@ -1183,14 +1199,14 @@ File: Potet2.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
+ [23]
 File: MorilloAfrica.png Graphic file (type bmp)
 <MorilloAfrica.png>
 File: KalemSpeechBubble.jpg Graphic file (type bmp)
 <KalemSpeechBubble.jpg>
 
-[22]
-Overfull \hbox (31.18463pt too wide) in paragraph at lines 346--346
+[24]
+Overfull \hbox (31.18463pt too wide) in paragraph at lines 383--383
 [][][][][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] []
 [][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
@@ -1199,25 +1215,25 @@ Overfull \hbox (31.18463pt too wide) in paragraph at lines 346--346
 File: SURAT_Ef.png Graphic file (type bmp)
 <SURAT_Ef.png>
 
-Overfull \hbox (0.4257pt too wide) in paragraph at lines 354--355
+Overfull \hbox (0.4257pt too wide) in paragraph at lines 391--392
 \TU/OpenBaybayin(0)/m/n/14.4 ᜅᜓᜋᜒᜆᜒ ᜐᜒᜌ ᜀᜆ᜴ ᜐᜒᜈᜊᜒ ᜐ ᜀᜋᜒᜈ᜴ ᜈ ᜁᜐᜅ᜔ ᜀᜍᜏ᜴ ᜀᜆ᜴ ᜊᜊᜎᜒᜃ
 ᜴ ᜂᜎᜒᜆ᜴ ᜃᜋᜒ ᜐ ᜊᜒᜐ᜴ᜃᜎᜈ᜴
  []
 
 
-Overfull \hbox (1.20094pt too wide) in paragraph at lines 362--363
+Overfull \hbox (6.20094pt too wide) in paragraph at lines 399--400
 \TU/TeXGyrePagella(0)/m/n/14.4 While perhaps not couted as printed material (de
 spite routinely being printed,[][][][][]
  []
 
-[23]
-Overfull \hbox (14.17137pt too wide) in paragraph at lines 365--366
+[25]
+Overfull \hbox (14.17137pt too wide) in paragraph at lines 402--403
 []\TU/TeXGyrePagella(0)/m/n/14.4 It is also used in Philippine passports, speci
 fically the latest e-passport
  []
 
 
-Overfull \hbox (1.51854pt too wide) in paragraph at lines 378--379
+Overfull \hbox (1.51854pt too wide) in paragraph at lines 415--416
 \TU/TeXGyrePagella(0)/m/n/14.4 Several large news publications in the Philippin
 es have produced articles which
  []
@@ -1226,8 +1242,8 @@ File: RapplerRA.jpg Graphic file (type bmp)
 <RapplerRA.jpg>
 File: MB.jpg Graphic file (type bmp)
 <MB.jpg>
-[24] [25]
-Overfull \hbox (6.63065pt too wide) in paragraph at lines 407--408
+[26] [27]
+Overfull \hbox (6.63065pt too wide) in paragraph at lines 444--445
 \TU/TeXGyrePagella(0)/m/n/14.4 pines’ \TU/TeXGyrePagella(0)/m/it/14.4 baybayin 
 \TU/TeXGyrePagella(0)/m/n/14.4 script) at <[][]$[][][][][] [] [] [] [][][][][][
 ][][][][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][] []
@@ -1235,60 +1251,60 @@ Overfull \hbox (6.63065pt too wide) in paragraph at lines 407--408
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayin' on input line 409.
+(hyperref)                removing `\baybayin' on input line 446.
 
 File: Maharlika.jpg Graphic file (type bmp)
 <Maharlika.jpg>
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayin' on input line 415.
+(hyperref)                removing `\baybayin' on input line 452.
 
 File: RANDY.jpg Graphic file (type bmp)
 <RANDY.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [28]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\baybayin' on input line 420.
+(hyperref)                removing `\baybayin' on input line 457.
 
 File: DelaTorre.jpg Graphic file (type bmp)
 <DelaTorre.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
+ [29]
 File: Protest3.jpg Graphic file (type bmp)
 <Protest3.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [30]
 File: logos.png Graphic file (type bmp)
 <logos.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
+ [31]
 File: Kalinga.jpg Graphic file (type bmp)
 <Kalinga.jpg>
 
 Underfull \vbox (badness 3078) has occurred while \output is active []
 
- [30]
-Overfull \hbox (54.20024pt too wide) in paragraph at lines 462--463
+ [32]
+Overfull \hbox (54.20024pt too wide) in paragraph at lines 499--500
 []\TU/TeXGyrePagella(0)/m/n/14.4 Per <[][]$[][][][][] [] [] [] [][][][][][][][]
 [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][] [] [][] [] [][][
 ][][][][][][][][][][][][][][][][][] []
  []
 
-[31]
+[33]
 File: TD1593.png Graphic file (type bmp)
 <TD1593.png>
 File: BikolMintz.png Graphic file (type bmp)
 <BikolMintz.png>
- [32] (./ratable.tex
+ [34] (./ratable.tex
 
 Package fontspec Info: Font family 'Baybayin_Ale.ttf(0)' created for font
 (fontspec)             'Baybayin_Ale.ttf' with options [Path=fonts/].
@@ -1641,15 +1657,15 @@ Package fontspec Info: Font family 'baybayin_modern_varsitito.ttf(0)' created
 )
 File: ZapantasFonts.png Graphic file (type bmp)
 <ZapantasFonts.png>
- [33] [34]
+ [35] [36]
 Missing character: There is no ◌ in font [lmmono12-regular]:!
 Missing character: There is no ᜒ in font [lmmono12-regular]:!
 File: Paninap.png Graphic file (type bmp)
 <Paninap.png>
- [35]
+ [37]
 File: Lexilogos.png Graphic file (type bmp)
 <Lexilogos.png>
- [36]
+ [38]
 File: LearnBaybayin.png Graphic file (type bmp)
 <LearnBaybayin.png>
 File: Alamin.png Graphic file (type bmp)
@@ -1657,29 +1673,29 @@ File: Alamin.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 582.
+ [39]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 619.
 
-[38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 582.
+[40]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 619.
  (./ra.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 582.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 582.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 619.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 619.
 Package rerunfilecheck Info: File `ra.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 582.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 619.
  ) 
 Here is how much of TeX's memory you used:
- 26890 strings out of 492922
- 523633 string characters out of 6138852
+ 26899 strings out of 492922
+ 523895 string characters out of 6138852
  733176 words of memory out of 5000000
- 30477 multiletter control sequences out of 15000+600000
- 544548 words of font info for 208 fonts, out of 8000000 for 9000
+ 30484 multiletter control sequences out of 15000+600000
+ 544564 words of font info for 210 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  47i,13n,80p,9108b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ra.pdf (38 pages).
+Output written on ra.pdf (40 pages).

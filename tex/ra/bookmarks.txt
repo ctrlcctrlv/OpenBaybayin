@@ -1,0 +1,401 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20190718160620+08'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20190718160620+08'00'
+InfoBegin
+InfoKey: Creator
+InfoValue: pdftk 2.02 - www.pdftk.com
+InfoBegin
+InfoKey: Producer
+InfoValue: itext-paulo-155 (itextpdf.sf.net-lowagie.com)
+PdfID0: dd4b253f79f3c744ce689b213aeb363f
+PdfID1: d48451590e5df6124cd2f119905efed5
+NumberOfPages: 42
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Linguistic details
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Unicode considerations
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Characters
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: A note on &#5901;'s name
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Properties
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Character remarks
+BookmarkLevel: 3
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Collation
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: History
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: The Zambales `ra', &#5901;
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Mariano Dario Canseco's Palatitikan kayumanggi (1966)
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Panitik Silangan, September 1963
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: The modern `ra', &#5901;
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: The Bikol `ra', &quot;E004
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Rizaleo `ra'&#8212;&quot;E005
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Further evidence
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Printed materials
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Jeremiah Cordial's The Seventh Moon, 2018
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Jean-Paul G. Potet's Bayb&#225;yin: L'Alphabet Syllabique des Tagals, 2012 (French edition)
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Kalem (Anak Bathala), &#8470;1, 2013, BHM Publishing, graphic novel
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Kristian Kabuay's Surat Magazine, &#8470;1, December 2018
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Wikipedia
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: News articles
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Reniel Pamplona's Modernizing Baybayin, Rappler, 2018
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Jayson R. Mangalus' Decoding Baybayin, Manila Bulletin, 2017
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Tattoos
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Maharlika, &#5899;&#5905;&#5901;&#5908;&#5902;&#5906;&#5891;, October 2018
+BookmarkLevel: 3
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Randy, &#5901;&#5896;&#5908;&#5895;&#5908;&#5900;&#5908; [sic], May 2018
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: de la Torre, &#5895;&#5906;&#5902; &#5894;&#5907;&#5901;&#5906;, March 2016
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Signs
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Sinagbayan protest, June 12 2019
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Art
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Lloyd Zapanta, Baybayin logos, 2015&#8211;2017
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Mural of Archie Oclos near Whang Od's Village, Kalinga
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Fonts
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Paul Morrow's Doctrina Christiana
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Paul Morrow's Bikol Mintz
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Norman de los Santos' fonts
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Lloyd Zapantas' fonts
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Software
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: JC John Sese Cuneta's Paninap Unicode Keyboard Layouts (2010)
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Xavier N&#232;gre's Lexilogos
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Android apps
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Proposal summary form to accompany submissions for additions to the repertoire of ISO/IEC 10646
+BookmarkLevel: 1
+BookmarkPageNumber: 41
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.28 841.89
+PageMediaDimensions: 595.28 841.89
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792

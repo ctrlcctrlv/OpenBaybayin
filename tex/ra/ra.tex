@@ -72,7 +72,17 @@ And finally, all the staff at Ateneo de Manila University's Rizal Library for gr
 See with what large letters I am writing to you with my own hand! Galatians 6:11}
 \begin{document}
 \maketitle
+
+\section*{Quick summary}
+If this proposal is accepted, the following characters will exist:
+
+\begin{itemize}
+    \item U+170D {\Huge \ra}\ \textsf{TAGALOG LETTER RA}
+    \item U+171F {\Huge\baybayinh ᜍ}\ \textsf{TAGALOG LETTER ARCHAIC RA}
+\end{itemize}
+
 \tableofcontents
+
 \addchap{Introduction}
 {\em Baybayin} is the local name for what the Unicode Standard calls the Tagalog block of the Basic Multilingual Plane (BMP). Proposed in 1998 by Michael Everson, four scripts were encoded at once: Tagalog, \hanunoo, Buhid and Tagbanwa.
 
@@ -89,13 +99,14 @@ The letter `da', {\baybayin ᜇ}, in Old Tagalog was known as {\em dara}. In his
 
 Some contemporary users of the script are okay with the ambiguity introduced by the lack of a \ra\, using \da\ for Tagalog words and \la\ for Spanish words. However, in my examination of the evidence, the majority of the contemporary {\em baybayin} user community prefers to use \ra, and even if some users find it distasteful and would prefer only to use the original seventeen {\em baybayin} letters, they are free to do so. After all, I am not trying to prescribe the use of \ra\ to anyone, but merely to describe that \ra\ is being used frequently and therefore needs a codepoint.
 
+
 \addchap{Unicode considerations}
 \section{Characters}
-I propose to encode only one character to cover all the modern variants discussed in this paper, to be encoded at U+170D and named \textsf{TAGALOG LETTER RA}. 
+I propose two characters: one character to cover all the modern variants discussed in this paper, to be encoded at U+170D and named \textsf{TAGALOG LETTER RA}, and another, to be encoded at U+171F, \textsf{TAGALOG LETTER ARCHAIC RA}, to cover the archaic ``Zambales'' form of the letter.
 
 The Zambales form of the {\baybayin ᜍ}, {\baybayinh ᜍ}, is only found in historical texts and {\em could} be encoded as U+170D and selected in a font by using the OpenType feature \texttt{hist}, \textsf{Historical Forms}, as I've done in the OpenBaybayin font that I made to typeset this document. In {\em baybayin} text, {\baybayinh ᜍ} has exactly the same meaning as {\baybayin ᜍ}, and I found no texts where both were in use except the one I'm writing. I received some feedback from the Script Ad Hoc committee that ``It is graphically quite different from the RA you propose, though it has the same sound, so it should also be encoded.''
 
-Therefore, out of respect to Script Ad Hoc, I also propose the Zambales {\baybayinh ᜍ} be encoded at U+171F and receive name \textsf{TAGALOG LETTER ZAMBALES RA}. In my discussions with users, it is of utmost importance to them that \textsf{TAGALOG LETTER RA} (\ra) be encoded, but many would also welcome \textsf{TAGALOG LETTER ZAMBALES RA} ({\baybayinh ᜍ}) to be able to transcribe historical texts in which it appears. The situation can be seen as analogous to that of \textsf{LATIN SMALL LETTER LONG S} (ſ) and \textsf{LATIN SMALL LETTER S} (s). Ultimately the decision is up to the Consortium.
+Therefore, out of respect to Script Ad Hoc, I also propose the Zambales {\baybayinh ᜍ} be encoded at U+171F and receive name \textsf{TAGALOG LETTER ARCHAIC RA}. In my discussions with users, it is of utmost importance to them that \textsf{TAGALOG LETTER RA} (\ra) be encoded, but many would also welcome \textsf{TAGALOG LETTER ARCHAIC RA} ({\baybayinh ᜍ}) to be able to transcribe historical texts in which it appears. The situation can be seen as analogous to that of \textsf{LATIN SMALL LETTER LONG S} (ſ) and \textsf{LATIN SMALL LETTER S} (s). Ultimately the decision is up to the Consortium.
 
 The variants of the marked {\baybayin ᜇ} form of the letter {\baybayin ᜍ} are mere stylistic choices with equivalent meaning and can all be encoded in the same letter in the same way that Q, {\textfrak{Q}}, \textsf{Q}, \cochinQ, and $\mathscr{Q}$ can all be represented by \textsf{LATIN CAPITAL LETTER Q}, U+0051, with the style chosen being based on font. Indeed, as {\em baybayin} fonts are primarily made based on handwriting, it is unsurprising that there are so many variants; in the samples I observed, other letters had many variants as well; for example, at times \na\ would have a straight center line instead of the standard squiggly one in the \na\ used in this sentence.
 
@@ -114,26 +125,34 @@ This is not meant to be an exhaustive listing, there are definitely variants bey
 
 Some of these, especially \textnumero\ref{DoubleLoop}, are caused by attempting to write the {\em baybayin} script in a cursive form on pen and paper, which is not how it was traditionally written.
 
+\section{A note on {\baybayinh ᜍ}'s name}
+
+I had originally intended to propose that {\baybayinh ᜍ} recieve the name \textsf{TAGALOG LETTER ZAMBALES RA}; as can be seen in the sources, whenever {\baybayinh ᜍ} is used, that's the name it's given, see \S\ref{Zambales}. However, one of the subject matter experts who was sent this proposal, Mr. Kristian Kabuay, commented that he did not like that name as it puts too much emphasis on Spanish scholarship instead of the indigenous qualities of the Tagalog script. Therefore, as has been done for other scripts, I decided to propose that the name be \textsf{TAGALOG LETTER ARCHAIC RA} instead. This is a more neutral, and still correct, designation; ``Zambales" can be in the notes. I prefer to defer to Mr. Kabuay, who has spent much of his life on scholarship and promotion of pre-Hispanic Philippine scripts, and recommend that the Consortium likewise defer.
+
 \section{Properties}
-The proposed General Category properties for \textsf{TAGALOG LETTER RA} are:
+The proposed General Category properties for the proposed characters are:
 
 \begin{verbatim}
 170D;TAGALOG LETTER RA;Lo;0;L;;;;;N;;;;;
-171F;TAGALOG LETTER ZAMBALES RA;Lo;0;L;;;;;N;;;;;
+171F;TAGALOG LETTER ARCHAIC RA;Lo;0;L;;;;;N;;;;;
 \end{verbatim}
 
-\subsection{\texttt{NamesList.txt} character remark}
+\subsection{Character remarks}
 
 So end users and font designers better understand this glyph and its use, I propose that \textsf{TAGALOG LETTER RA} receive the following character note in \texttt{NamesList.txt}:
 
 \begin{quote}
-    Not used to write Old Tagalog.
+    • modern adaptation, not used to write Old Tagalog \\
+    → {\baybayinh ᜍ}\ U+171F \textsf{TAGALOG LETTER ARCHAIC RA}
 \end{quote}
 
-I propose that \textsf{TAGALOG LETTER ZAMBALES RA} receive the following character note in \texttt{NamesList.txt}:
+I propose that \textsf{TAGALOG LETTER ARCHAIC RA} receive the following character note in \texttt{NamesList.txt}:
 
 \begin{quote}
-    Not used to write Old Tagalog; historical form of TAGALOG LETTER RA.
+    • modern adaptation, not used to write Old Tagalog \\
+    • historical (19th--20th century) form of \textsf{TAGALOG LETTER RA} \\
+    • also known as the ``Zambales'' ra \\
+    → \ra\ U+170D \textsf{TAGALOG LETTER RA}
 \end{quote}
 
 \section{Collation}
@@ -161,6 +180,7 @@ That is to say, {\baybayin ᜌ} comes before {\baybayin ᜍ} comes before {\bayb
 \addchap{History}
 
 \section{The Zambales `ra', {\baybayinh ᜍ}}
+\label{Zambales}
 
 The first form of the {\em baybayin} `ra' is the Zambales `ra'. Its main source is the 1895 book {\em Estudio de los antiguos alfabetos Filipinos} by Cipriano Marcilla y Martin where it appears on page 23. 
 
@@ -193,12 +213,29 @@ Translated into English:
 The community of {\em baybayin}/Tagalog script revivalists happily received this advice mid-century---most documents of the era which include `ra' use the Zambales `ra'. Many of these publications are hard to come by as they had limited production runs and before the internet were costly to produce, but I was able to find some in the Ateneo de Manila University's Rizal Library:
 \newpage
 \subsection{Mariano Dario Canseco's {\em Palatitikan kayumanggi} (1966)}
-{\baybayinh ᜍ} can be seen clearly in the words {\baybayinh ᜐᜍᜒᜎᜒ}---{\em sarili}, {\baybayinh ᜃᜓᜍᜓᜃᜓᜍᜓ}---{\em kurukuro} and {\baybayinh ᜀ\kern-0.2emᜍᜏ}---{\em araw}.
+This book has sections in the regular Latin Tagalog script, as well as lengthy passages entirely in {\em baybayin}, proto-memes, a dictionary and essays about {\em baybayin}.
+
+In the early part of the book, we can see the author refer to his chosen \ra\ as a ``Zambales" \ra,\footnote{He uses the word {\em Sambales}, which is common, depending on the author, as Tagalog does not normally differentiate [s] and [z], and no native Tagalog words contain [z]. So, after the departure of the Spanish, many authors have chosen to ``tagalize'' place names; whether or not this is done entirely depends on the author.} {\baybayinh ᜍ}, in the section {\em Mga katinig D at R sa ating palatitikan} ({\em The consonants D and R in our [native] orthography}):
+
+\includegraphics[width=0.9\textwidth]{katinig}
+
+\begin{quote}
+    Ang katinig na {\em Ra} ay hango sa isang matandang kasulatan ng taga Sambales at natuklasan noong 1601. 
+\end{quote}
+
+Translated:
+
+\begin{quote}
+    The consonant {\em Ra} is adapted from an old manuscript from Zambales created in 1601. 
+\end{quote}
+\newpage
+
+Regarding the {\baybayinh ᜍ} itself, it can be seen clearly in the words {\baybayinh ᜐᜍᜒᜎᜒ}---{\em sarili}, {\baybayinh ᜃᜓᜍᜓᜃᜓᜍᜓ}---{\em kurukuro} and {\baybayinh ᜀ\kern-0.2emᜍᜏ}---{\em araw}.
  \\
 \includegraphics[width=0.9\textwidth]{PK}
 
 \newpage
-Includes some dictionary entries that show {\baybayinh ᜍ}
+Below are images of dictionary entries in the book that show {\baybayinh ᜍ}
 
 \includegraphics[width=0.5\textwidth]{Dict}
 
@@ -301,7 +338,7 @@ As the modern `ra' is contemporary to the internet and the spread of Facebook in
 
 \subsection{Jeremiah Cordial's {\em The Seventh Moon}, 2018}
 
-This fantasy novel has {\em baybayin} sayings on the heading of every chapter. In many of them, the modern \ra\ can be clearly seen. For example, chapter \textnumero47 has this saying attached:
+This fantasy novel, which has been given wide distribution in the Philippines by National Bookstore,\footnote{\url{https://www.nationalbookstore.com/the-seventh-moon-tp}, it is available nationwide in the largest Philippine bookseller for ₱250.} has {\em baybayin} sayings on the heading of every chapter. In many of them, the modern \ra\ can be clearly seen. For example, chapter \textnumero47 has this saying attached:
 
 %\begin{figure}[h]
 \includegraphics[width=0.5\textwidth]{7thMoon}
