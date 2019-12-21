@@ -2,7 +2,7 @@
 
 OpenBaybayin is a font primarily made to accompany my Unicode proposal, *[The baybayin “ra”—ᜍ: its origins and a plea for its formal recognition](https://github.com/ctrlcctrlv/OpenBaybayin/blob/master/tex/ra/merge.pdf)*.
 
-
+![44px font sample](https://github.com/ChiefMikeK/OpenBaybayin/blob/master/OpenBaybayin_otf_44pxSample.png)
 # Font information
 
 This font most closely conforms to Norman de los Santos' version of *baybayin*. I included many forms of “ra”; the generic form is at U+170D and the Zambales form is available if Historical Forms (`hist`) is enabled. The others are in the Private Usea Area.
